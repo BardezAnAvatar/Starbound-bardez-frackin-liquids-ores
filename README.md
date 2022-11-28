@@ -7,13 +7,11 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
-     - [ ] Non-metallurgy Things
+     - [X] Non-metallurgy Things
        - [X] Liquid Lead
        - [X] Liquid Silicon
        - [X] Liquid Sulphur
-       - [ ] Liquid Magnesite
-       - [ ] Liquid Mascagnite
-       - [ ] Liquid Oxygen
+       - [X] Liquid Oxygen
      - [ ] Inert Ores
        - [ ] Tier 2.5
          - [ ] Liquid Telebrium
@@ -50,6 +48,10 @@ This mod does the following:
        - [ ] Liquid Nocxium
        - [ ] Liquid Neutronium
        - [ ] Liquid Anti-Neutronium
+     - Liquids I am debating
+       - [ ] Liquid Magnesite
+       - [ ] Liquid Mascagnite
+       - [ ] Liquid Methynol
      - Things Not Done
        - Cinnabar (simply yields mercury, already an FU liquid)
        - Protocite (already has an FU liquid)
@@ -62,10 +64,8 @@ This mod does the following:
     - Yields Sand, Silicon, Oxygen
   - [ ] Liquid Sulphur
     - Yields Sulphur, Hydrogen, Silver Ore (rare)
-  - [ ] Liquid Magnesite
-  - [ ] Liquid Mascagnite
   - [ ] Liquid Oxygen
-  - [ ] Liquid Methynol
+    - Yields O2, Water, 
   - [ ] Liquid Telebrium
   - [ ] Liquid Advanced Alloy
   - [ ] Liquid Zerchesium
