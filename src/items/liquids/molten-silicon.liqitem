@@ -3,7 +3,7 @@
   "rarity" : "Common",
   "category" : "liquid",
   "inventoryIcon" : "molten-silicon.png",
-  "shortdescription" : "Liquid silicon",
+  "shortdescription" : "Liquid Silicon",
   "description" : "A measure of molten silicon (^gray;Si^reset). Toxic.\n^yellow;Centrifugable^reset;.",
   "liquid" : "liquid-silicon",
   "price": 20
