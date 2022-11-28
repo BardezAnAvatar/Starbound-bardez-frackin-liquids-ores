@@ -17,7 +17,7 @@ This mod does the following:
          - [X] Liquid Telebrium
        - [ ] Tier 3
          - [X] Liquid Zerchesium
-         - [ ] Liquid Penumbrite
+         - [X] Liquid Penumbrite
          - [ ] Liquid Advanced Alloy
        - [ ] Tier 4
          - [ ] Liquid Trianglium
@@ -67,9 +67,11 @@ This mod does the following:
     - Yields O2, Water, 
   - [ ] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
-  - [ ] Liquid Advanced Alloy
   - [ ] Liquid Zerchesium
+    - Yields Zerchesium ore, silt CO2
   - [ ] Liquid Penumbrite
+    - Yields penumbrite ore, sand, hydrogen
+  - [ ] Liquid Advanced Alloy
   - [ ] Liquid Trianglium
   - [ ] Liquid Quietus
   - [ ] Liquid Lasombrium
