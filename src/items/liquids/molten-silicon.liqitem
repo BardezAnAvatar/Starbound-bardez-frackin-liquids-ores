@@ -1,6 +1,6 @@
 {
   "itemName" : "molten-silicon",
-  "rarity" : "Common",
+  "rarity" : "uncommon",
   "category" : "liquid",
   "inventoryIcon" : "molten-silicon.png",
   "shortdescription" : "Liquid Silicon",
