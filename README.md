@@ -57,6 +57,34 @@ This mod does the following:
        - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - Liquid Lead
+  - [ ] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
+  - [ ] Liquid Silicone
+  - [ ] Liquid Sulphur
+  - [ ] Liquid Magnesite
+  - [ ] Liquid Mascagnite
+  - [ ] Liquid Oxygen
+  - [ ] Liquid Methynol
+  - [ ] Liquid Telebrium
+  - [ ] Liquid Advanced Alloy
+  - [ ] Liquid Zerchesium
+  - [ ] Liquid Penumbrite
+  - [ ] Liquid Trianglium
+  - [ ] Liquid Quietus
+  - [ ] Liquid Lasombrium
+  - [ ] Liquid Effigium
+  - [ ] Liquid Dense Alloy
+  - [ ] Liquid Densinium
+  - [ ] Liquid Pyreite
+  - [ ] Liquid Isogen
+  - [ ] Liquid Plutonium
+  - [ ] Liquid Uranium
+  - [ ] Liquid Neptunium
+  - [ ] Liquid Thorium
+  - [ ] Liquid Lunari
+  - [ ] Liquid Prism
+  - [ ] Liquid Xithricite
+  - [ ] Liquid Nocxium
+  - [ ] Liquid Neutronium
+  - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
