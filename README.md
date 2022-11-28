@@ -14,7 +14,6 @@ This mod does the following:
        - [ ] Liquid Magnesite
        - [ ] Liquid Mascagnite
        - [ ] Liquid Oxygen
-       - [ ] Liquid Methynol
      - [ ] Inert Ores
        - [ ] Tier 2.5
          - [ ] Liquid Telebrium
