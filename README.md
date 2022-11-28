@@ -10,7 +10,7 @@ This mod does the following:
      - [ ] Non-metallurgy Things
        - [X] Liquid Lead
        - [X] Liquid Silicon
-       - [ ] Liquid Sulphur
+       - [X] Liquid Sulphur
        - [ ] Liquid Magnesite
        - [ ] Liquid Mascagnite
        - [ ] Liquid Oxygen
