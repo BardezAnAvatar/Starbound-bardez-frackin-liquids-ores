@@ -60,6 +60,7 @@ This mod does the following:
   - [ ] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
   - [ ] Liquid Silicon
+    - Yields Sand, Silicon, Oxygen
   - [ ] Liquid Sulphur
   - [ ] Liquid Magnesite
   - [ ] Liquid Mascagnite
