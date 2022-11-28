@@ -21,7 +21,7 @@ This mod does the following:
          - [X] Liquid Advanced Alloy
        - [ ] Tier 4
          - [X] Liquid Trianglium
-         - [ ] Liquid Quietus
+         - [X] Liquid Quietus
          - [ ] Liquid Lasombrium
        - [ ] Tier 5
          - [ ] Liquid Effigium
