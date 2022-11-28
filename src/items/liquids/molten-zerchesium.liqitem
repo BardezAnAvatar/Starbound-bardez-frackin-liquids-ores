@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-zerchesium",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-zerchesium.png",
+  "shortdescription" : "Liquid Zerchesium",
+  "description" : "A measure of molten zerchesium. Very, very, VERY hot.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-zerchesium",
+  "price": 30
+}

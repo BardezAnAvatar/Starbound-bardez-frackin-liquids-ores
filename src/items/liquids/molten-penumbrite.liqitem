@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-penumbrite",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-penumbrite.png",
+  "shortdescription" : "Liquid Penumbrite",
+  "description" : "A measure of molten penumbrite. Both heavy and dense.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-penumbrite",
+  "price": 30
+}

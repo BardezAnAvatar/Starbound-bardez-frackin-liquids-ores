@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-advanced-alloy",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-advanced-alloy.png",
+  "shortdescription" : "Liquid Advanced Alloy",
+  "description" : "A measure of molten advanced alloy. Tough stuff.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-advanced-alloy",
+  "price": 30
+}
