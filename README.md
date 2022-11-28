@@ -6,7 +6,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- [ ] Adds in even more liquids based on Frackin' Universe ores:
+- [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
      - [ ] Non-metallurgy Things
        - [ ] Liquid Lead
        - [ ] Liquid Silicone
