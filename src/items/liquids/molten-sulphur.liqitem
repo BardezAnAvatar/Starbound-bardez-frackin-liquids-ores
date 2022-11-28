@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-sulphur",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-sulphur.png",
+  "shortdescription" : "Liquid Sulphur",
+  "description" : "A measure of molten sulphur (^gray;S^reset;). One of the core elements needed for biochemical function.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-sulphur",
+  "price": 20
+}

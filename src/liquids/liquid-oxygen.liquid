@@ -1,0 +1,39 @@
+{
+  "name" : "liquid-oxygen",
+  "liquidId" : 112,
+  "description" : "Molten oxygen. Frigidly cold.",
+  "tickDelta" : 1,
+  "color" : [122, 180, 203, 64],
+  "radiantLight" : [122, 180, 203],
+  "itemDrop" : "molten-oxygen",
+  "texture" : "/liquids/liquid-oxygen.png",
+  "bottomLightMix" : [0, 78, 255],
+  "textureMovementFactor" : 2.6,
+  "statusEffects" : ["swimming", "staffslow", "nitrogenfreeze"],
+  "interactions" : [
+    {
+      "liquid": 1,  //water
+      "materialResult": "ice"
+    },
+    {
+      "liquid": 12, //swamp water
+      "materialResult": "iceblock3"
+    },
+    {
+      "liquid": 6,  //healing water
+      "materialResult": "iceblock1"
+    },
+    {
+      "liquid": 73, //salt water
+      "materialResult": "iceblock1"
+    },
+    {
+      "liquid": 58, //contaminated water
+      "materialResult": "iceblock4"
+    },
+    {
+      "liquid": 62,  //hydrogen gas
+      "liquidResult": 1
+    }
+  ]
+}

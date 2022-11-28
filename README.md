@@ -7,14 +7,11 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
-     - [ ] Non-metallurgy Things
-       - [ ] Liquid Lead
-       - [ ] Liquid Silicone
-       - [ ] Liquid Sulphur
-       - [ ] Liquid Magnesite
-       - [ ] Liquid Mascagnite
-       - [ ] Liquid Oxygen
-       - [ ] Liquid Methynol
+     - [X] Non-metallurgy Things
+       - [X] Liquid Lead
+       - [X] Liquid Silicon
+       - [X] Liquid Sulphur
+       - [X] Liquid Oxygen
      - [ ] Inert Ores
        - [ ] Tier 2.5
          - [ ] Liquid Telebrium
@@ -51,10 +48,45 @@ This mod does the following:
        - [ ] Liquid Nocxium
        - [ ] Liquid Neutronium
        - [ ] Liquid Anti-Neutronium
+     - Liquids I am debating
+       - [ ] Liquid Magnesite
+       - [ ] Liquid Mascagnite
+       - [ ] Liquid Methynol
      - Things Not Done
        - Cinnabar (simply yields mercury, already an FU liquid)
        - Protocite (already has an FU liquid)
        - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+  - [ ] Liquid Lead
+    - Yields Lead, Phosphorus, Oxygen
+  - [ ] Liquid Silicon
+    - Yields Sand, Silicon, Oxygen
+  - [ ] Liquid Sulphur
+    - Yields Sulphur, Hydrogen, Silver Ore (rare)
+  - [ ] Liquid Oxygen
+    - Yields O2, Water, 
+  - [ ] Liquid Telebrium
+  - [ ] Liquid Advanced Alloy
+  - [ ] Liquid Zerchesium
+  - [ ] Liquid Penumbrite
+  - [ ] Liquid Trianglium
+  - [ ] Liquid Quietus
+  - [ ] Liquid Lasombrium
+  - [ ] Liquid Effigium
+  - [ ] Liquid Dense Alloy
+  - [ ] Liquid Densinium
+  - [ ] Liquid Pyreite
+  - [ ] Liquid Isogen
+  - [ ] Liquid Plutonium
+  - [ ] Liquid Uranium
+  - [ ] Liquid Neptunium
+  - [ ] Liquid Thorium
+  - [ ] Liquid Lunari
+  - [ ] Liquid Prism
+  - [ ] Liquid Xithricite
+  - [ ] Liquid Nocxium
+  - [ ] Liquid Neutronium
+  - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
+    - TODO: Add liquid sulphur recipe for sulphuric acid

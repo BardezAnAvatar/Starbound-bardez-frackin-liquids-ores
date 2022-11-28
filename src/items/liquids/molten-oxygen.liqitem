@@ -1,0 +1,11 @@
+{
+  "itemName" : "molten-oxygen",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-oxygen.png",
+  "shortdescription" : "Liquid Oxygen",
+  "description" : "A measure of molten oxygen (^gray;O^reset;). Strong oxidizer.\n^yellow;Centrifugable^reset;.\n^blue;+^white;3 ^blue;Fuel^reset;",
+  "liquid" : "liquid-oxygen",
+  "price": 20,
+  "fuel": 3
+}
