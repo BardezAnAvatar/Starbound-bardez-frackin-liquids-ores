@@ -15,7 +15,7 @@ This mod does the following:
      - [ ] Nonradioactive Ores
        - [X] Tier 2
          - [X] Liquid Telebrium
-       - [ ] Tier 3
+       - [X] Tier 3
          - [X] Liquid Zerchesium
          - [X] Liquid Penumbrite
          - [X] Liquid Advanced Alloy
