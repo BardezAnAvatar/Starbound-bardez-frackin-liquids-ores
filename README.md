@@ -16,7 +16,7 @@ This mod does the following:
        - [X] Tier 2
          - [X] Liquid Telebrium
        - [ ] Tier 3
-         - [ ] Liquid Zerchesium
+         - [X] Liquid Zerchesium
          - [ ] Liquid Penumbrite
          - [ ] Liquid Advanced Alloy
        - [ ] Tier 4
