@@ -90,3 +90,40 @@ This mod does the following:
   - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
+- [ ] Adds research recipes to the research system for these liquids
+     - [ ] Non-metallurgy Things
+       - [ ] Liquid Lead
+       - [ ] Liquid Silicon
+       - [ ] Liquid Sulphur
+       - [ ] Liquid Oxygen
+     - [ ] Nonradioactive Ores
+       - [ ] Tier 2
+         - [ ] Liquid Telebrium
+       - [ ] Tier 3
+         - [ ] Liquid Advanced Alloy
+         - [ ] Liquid Zerchesium
+         - [ ] Liquid Penumbrite
+       - [ ] Tier 4
+         - [ ] Liquid Trianglium
+         - [ ] Liquid Quietus
+         - [ ] Liquid Lasombrium
+       - [ ] Tier 5
+         - [ ] Liquid Effigium
+         - [ ] Liquid Dense Alloy
+       - [ ] Tier 6
+         - [ ] Liquid Densinium
+         - [ ] Liquid Pyreite
+         - [ ] Liquid Isogen
+     - [ ] Radioactive Ores
+         - [ ] Liquid Plutonium
+         - [ ] Liquid Uranium
+         - [ ] Liquid Neptunium
+         - [ ] Liquid Thorium
+     - [ ] Crystalworking
+       - [ ] Liquid Lunari
+       - [ ] Liquid Prism
+       - [ ] Liquid Xithricite
+     - [ ] Madness
+       - [ ] Liquid Nocxium
+       - [ ] Liquid Neutronium
+       - [ ] Liquid Anti-Neutronium
