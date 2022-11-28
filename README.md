@@ -8,7 +8,7 @@ This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
      - [ ] Non-metallurgy Things
-       - [ ] Liquid Lead
+       - [X] Liquid Lead
        - [ ] Liquid Silicone
        - [ ] Liquid Sulphur
        - [ ] Liquid Magnesite
