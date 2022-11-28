@@ -12,7 +12,7 @@ This mod does the following:
        - [X] Liquid Silicon
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
-     - [ ] Inert Ores
+     - [ ] Nonradioactive Ores
        - [ ] Tier 2
          - [ ] Liquid Telebrium
        - [ ] Tier 3
