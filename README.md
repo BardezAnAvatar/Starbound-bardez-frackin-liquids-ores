@@ -13,9 +13,9 @@ This mod does the following:
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
      - [ ] Inert Ores
-       - [ ] Tier 2.5
+       - [ ] Tier 2
          - [ ] Liquid Telebrium
-       - [ ] Tier 3.5
+       - [ ] Tier 3
          - [ ] Liquid Advanced Alloy
          - [ ] Liquid Zerchesium
          - [ ] Liquid Penumbrite
@@ -25,7 +25,6 @@ This mod does the following:
          - [ ] Liquid Lasombrium
        - [ ] Tier 5
          - [ ] Liquid Effigium
-       - [ ] Tier 5.5
          - [ ] Liquid Dense Alloy
        - [ ] Tier 6
          - [ ] Liquid Densinium
