@@ -13,8 +13,8 @@ This mod does the following:
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
      - [ ] Nonradioactive Ores
-       - [ ] Tier 2
-         - [ ] Liquid Telebrium
+       - [X] Tier 2
+         - [X] Liquid Telebrium
        - [ ] Tier 3
          - [ ] Liquid Advanced Alloy
          - [ ] Liquid Zerchesium
@@ -66,6 +66,7 @@ This mod does the following:
   - [ ] Liquid Oxygen
     - Yields O2, Water, 
   - [ ] Liquid Telebrium
+    - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
   - [ ] Liquid Advanced Alloy
   - [ ] Liquid Zerchesium
   - [ ] Liquid Penumbrite
