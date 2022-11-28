@@ -4,7 +4,7 @@
   "category" : "liquid",
   "inventoryIcon" : "molten-lead.png",
   "shortdescription" : "Liquid Lead",
-  "description" : "A measure of molten lead (^gray;Pb^reset). Toxic.\n^yellow;Centrifugable^reset;.",
+  "description" : "A measure of molten lead (^gray;Pb^reset;). Toxic.\n^yellow;Centrifugable^reset;.",
   "liquid" : "liquid-lead",
   "price": 20
 }
