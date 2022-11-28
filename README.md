@@ -18,7 +18,7 @@ This mod does the following:
        - [ ] Tier 3
          - [X] Liquid Zerchesium
          - [X] Liquid Penumbrite
-         - [ ] Liquid Advanced Alloy
+         - [X] Liquid Advanced Alloy
        - [ ] Tier 4
          - [ ] Liquid Trianglium
          - [ ] Liquid Quietus
@@ -72,6 +72,7 @@ This mod does the following:
   - [ ] Liquid Penumbrite
     - Yields penumbrite ore, sand, hydrogen
   - [ ] Liquid Advanced Alloy
+    - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare)
   - [ ] Liquid Trianglium
   - [ ] Liquid Quietus
   - [ ] Liquid Lasombrium
