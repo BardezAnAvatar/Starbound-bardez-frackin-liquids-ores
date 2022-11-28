@@ -9,7 +9,7 @@ This mod does the following:
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
      - [ ] Non-metallurgy Things
        - [X] Liquid Lead
-       - [ ] Liquid Silicone
+       - [ ] Liquid Silicon
        - [ ] Liquid Sulphur
        - [ ] Liquid Magnesite
        - [ ] Liquid Mascagnite
@@ -59,7 +59,7 @@ This mod does the following:
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Lead
     - Yields Lead, Phosphorus, Oxygen
-  - [ ] Liquid Silicone
+  - [ ] Liquid Silicon
   - [ ] Liquid Sulphur
   - [ ] Liquid Magnesite
   - [ ] Liquid Mascagnite
