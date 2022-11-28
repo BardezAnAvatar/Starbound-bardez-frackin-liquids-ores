@@ -57,4 +57,6 @@ This mod does the following:
        - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+  - Liquid Lead
+    - Yields Lead, Phosphorus, Oxygen
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
