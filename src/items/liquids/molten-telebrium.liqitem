@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-telebrium",
+  "rarity" : "common",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-telebrium.png",
+  "shortdescription" : "Liquid Telebrium",
+  "description" : "A measure of molten telebrium. Frequently found on moons.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-telebrium",
+  "price": 20
+}

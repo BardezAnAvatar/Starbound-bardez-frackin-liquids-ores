@@ -12,10 +12,10 @@ This mod does the following:
        - [X] Liquid Silicon
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
-     - [ ] Inert Ores
-       - [ ] Tier 2.5
-         - [ ] Liquid Telebrium
-       - [ ] Tier 3.5
+     - [ ] Nonradioactive Ores
+       - [X] Tier 2
+         - [X] Liquid Telebrium
+       - [ ] Tier 3
          - [ ] Liquid Advanced Alloy
          - [ ] Liquid Zerchesium
          - [ ] Liquid Penumbrite
@@ -25,7 +25,6 @@ This mod does the following:
          - [ ] Liquid Lasombrium
        - [ ] Tier 5
          - [ ] Liquid Effigium
-       - [ ] Tier 5.5
          - [ ] Liquid Dense Alloy
        - [ ] Tier 6
          - [ ] Liquid Densinium
@@ -67,6 +66,7 @@ This mod does the following:
   - [ ] Liquid Oxygen
     - Yields O2, Water, 
   - [ ] Liquid Telebrium
+    - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
   - [ ] Liquid Advanced Alloy
   - [ ] Liquid Zerchesium
   - [ ] Liquid Penumbrite
