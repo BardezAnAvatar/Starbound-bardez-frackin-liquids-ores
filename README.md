@@ -62,6 +62,7 @@ This mod does the following:
   - [ ] Liquid Silicon
     - Yields Sand, Silicon, Oxygen
   - [ ] Liquid Sulphur
+    - Yields Sulphur, Hydrogen, Silver Ore (rare)
   - [ ] Liquid Magnesite
   - [ ] Liquid Mascagnite
   - [ ] Liquid Oxygen
