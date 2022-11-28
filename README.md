@@ -90,3 +90,4 @@ This mod does the following:
   - [ ] Liquid Neutronium
   - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
+    - TODO: Add liquid sulphur recipe for sulphuric acid
