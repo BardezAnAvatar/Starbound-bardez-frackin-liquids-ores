@@ -7,11 +7,14 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores:
-     - [ ] Non-metallurgy Ores
+     - [ ] Non-metallurgy Things
        - [ ] Liquid Lead
+       - [ ] Liquid Silicone
        - [ ] Liquid Sulphur
        - [ ] Liquid Magnesite
        - [ ] Liquid Mascagnite
+       - [ ] Liquid Oxygen
+       - [ ] Liquid Methynol
      - [ ] Inert Ores
        - [ ] Tier 2.5
          - [ ] Liquid Telebrium
@@ -33,7 +36,7 @@ This mod does the following:
          - [ ] Liquid Isogen
      - [ ] Radioactive Ores
        - [ ] Tier 2
-         - [ ] Liquid Plutonium
+         - [ ] Liquid Plutonium (Note: why is this before uranium??)
        - [ ] Tier 3
          - [ ] Liquid Uranium
        - [ ] Tier 4
