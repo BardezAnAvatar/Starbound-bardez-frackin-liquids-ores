@@ -27,7 +27,7 @@ This mod does the following:
          - [X] Liquid Effigium
          - [x] Liquid Dense Alloy
        - [ ] Tier 6
-         - [ ] Liquid Densinium
+         - [X] Liquid Densinium
          - [ ] Liquid Pyreite
          - [ ] Liquid Isogen
      - [ ] Radioactive Ores
@@ -84,6 +84,7 @@ This mod does the following:
   - [ ] Liquid Dense Alloy
     - Yields aegisalt ore, ferozium ore, violium ore, lead
   - [ ] Liquid Densinium
+    - Yields Densinium ore, lead, silicon
   - [ ] Liquid Pyreite
   - [ ] Liquid Isogen
   - [ ] Liquid Plutonium
