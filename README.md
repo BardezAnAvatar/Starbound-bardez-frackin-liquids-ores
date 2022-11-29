@@ -40,7 +40,7 @@ This mod does the following:
     - [X] Liquid Prisilite
     - [X] Liquid Xithricite
   - [ ] Madness
-    - [ ] Liquid Nocxium
+    - [X] Liquid Nocxium
     - [ ] Liquid Neutronium
     - [ ] Liquid Anti-Neutronium
   - Liquids I am debating
@@ -100,6 +100,7 @@ This mod does the following:
   - [ ] Liquid Xithricite
     - Yields Xithricite ore, silicon, CO2
   - [ ] Liquid Nocxium
+    - Yields Nocxium ore, Essentia Obscura, genes
   - [ ] Liquid Neutronium
   - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
