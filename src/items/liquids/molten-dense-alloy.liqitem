@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-dense-alloy",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-dense-alloy.png",
+  "shortdescription" : "Liquid dense Alloy",
+  "description" : "A measure of molten dense alloy. Really dense.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-dense-alloy",
+  "price": 80
+}
