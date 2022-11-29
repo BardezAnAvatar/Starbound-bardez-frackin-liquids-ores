@@ -24,7 +24,7 @@ This mod does the following:
          - [X] Liquid Quietus
          - [X] Liquid Lasombrium
        - [ ] Tier 5
-         - [ ] Liquid Effigium
+         - [X] Liquid Effigium
          - [ ] Liquid Dense Alloy
        - [ ] Tier 6
          - [ ] Liquid Densinium
@@ -80,6 +80,7 @@ This mod does the following:
   - [ ] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
   - [ ] Liquid Effigium
+    - Yields effigium ore, liquid silver (rare), silicon
   - [ ] Liquid Dense Alloy
   - [ ] Liquid Densinium
   - [ ] Liquid Pyreite
