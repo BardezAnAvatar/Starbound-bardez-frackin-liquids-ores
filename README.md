@@ -30,11 +30,11 @@ This mod does the following:
          - [X] Liquid Densinium
          - [X] Liquid Pyreite
          - [X] Liquid Isogen
-     - [ ] Radioactive Ores
+     - [X] Radioactive Ores
          - [X] Liquid Plutonium (Note: why is this before uranium??)
          - [X] Liquid Uranium
          - [X] Liquid Neptunium
-         - [ ] Liquid Thorium
+         - [X] Liquid Thorium
      - [ ] Crystalworking
        - [ ] Liquid Lunari
        - [ ] Liquid Prism
@@ -92,7 +92,7 @@ This mod does the following:
   - [ ] Liquid Neptunium
     - Yields Neptunium ore, oxygen, Plutonium ore, lead
   - [ ] Liquid Thorium
-    - Yields Thorium ore, oxygen, lead
+    - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
   - [ ] Liquid Lunari
   - [ ] Liquid Prism
   - [ ] Liquid Xithricite
