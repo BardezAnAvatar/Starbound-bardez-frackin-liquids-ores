@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-densinium",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-densinium.png",
+  "shortdescription" : "Liquid Densinium",
+  "description" : "A measure of molten densinium, a state of Osmium (^gray;Os^reset;).\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-densinium",
+  "price": 180
+}

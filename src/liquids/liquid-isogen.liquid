@@ -1,0 +1,35 @@
+{
+  "name" : "liquid-isogen",
+  "liquidId" : 124,
+  "description" : "Molten isogen. Temperature registers below 0 K?!.",
+  "tickDelta" : 1,
+  "color" : [0, 104, 170, 144],
+  "radiantLight" : [0, 104, 170],
+  "itemDrop" : "molten-isogen",
+  "texture" : "/liquids/liquid-isogen.png",
+  "bottomLightMix" : [0, 78, 255],
+  "textureMovementFactor" : 2.6,
+  "statusEffects" : ["swimming", "staffslow", "nitrogenfreeze"],
+  "interactions" : [
+    {
+      "liquid": 1,  //water
+      "materialResult": "ice"
+    },
+    {
+      "liquid": 12, //swamp water
+      "materialResult": "iceblock3"
+    },
+    {
+      "liquid": 6,  //healing water
+      "materialResult": "iceblock1"
+    },
+    {
+      "liquid": 73, //salt water
+      "materialResult": "iceblock1"
+    },
+    {
+      "liquid": 58, //contaminated water
+      "materialResult": "iceblock4"
+    }
+  ]
+}

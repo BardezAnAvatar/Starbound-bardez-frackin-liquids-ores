@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-isogen",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-isogen.png",
+  "shortdescription" : "Liquid Isogen",
+  "description" : "A measure of molten isogen. Sucks heat out of everything it touches.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-isogen",
+  "price": 180
+}

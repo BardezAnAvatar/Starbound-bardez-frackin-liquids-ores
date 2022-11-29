@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-pyreite",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-pyreite.png",
+  "shortdescription" : "Liquid Pyreite",
+  "description" : "A measure of molten pyreite. Appears to continually combust.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-pyreite",
+  "price": 180
+}
