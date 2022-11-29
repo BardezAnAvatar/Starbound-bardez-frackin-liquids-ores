@@ -37,7 +37,7 @@ This mod does the following:
       - [X] Liquid Thorium
   - [ ] Crystalworking
     - [X] Liquid Lunari
-    - [ ] Liquid Prisilite/PrismShard
+    - [X] Liquid Prisilite
     - [ ] Liquid Xithricite
   - [ ] Madness
     - [ ] Liquid Nocxium
@@ -95,7 +95,8 @@ This mod does the following:
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
   - [ ] Liquid Lunari
     - Yields Lunari Shard, crystal, carbon, CO2
-  - [ ] Liquid Prism
+  - [ ] Liquid Prisilite
+    - Yields Prism Shard, crystal, silicon, CO2
   - [ ] Liquid Xithricite
   - [ ] Liquid Nocxium
   - [ ] Liquid Neutronium
