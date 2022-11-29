@@ -7,50 +7,50 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
-     - [X] Non-metallurgy Things
-       - [X] Liquid Lead
-       - [X] Liquid Silicon
-       - [X] Liquid Sulphur
-       - [X] Liquid Oxygen
-     - [X] Nonradioactive Ores
-       - [X] Tier 2
-         - [X] Liquid Telebrium
-       - [X] Tier 3
-         - [X] Liquid Zerchesium
-         - [X] Liquid Penumbrite
-         - [X] Liquid Advanced Alloy
-       - [X] Tier 4
-         - [X] Liquid Trianglium
-         - [X] Liquid Quietus
-         - [X] Liquid Lasombrium
-       - [x] Tier 5
-         - [X] Liquid Effigium
-         - [x] Liquid Dense Alloy
-       - [X] Tier 6
-         - [X] Liquid Densinium
-         - [X] Liquid Pyreite
-         - [X] Liquid Isogen
-     - [X] Radioactive Ores
-         - [X] Liquid Plutonium (Note: why is this before uranium??)
-         - [X] Liquid Uranium
-         - [X] Liquid Neptunium
-         - [X] Liquid Thorium
-     - [ ] Crystalworking
-       - [ ] Liquid Lunari
-       - [ ] Liquid Prism
-       - [ ] Liquid Xithricite
-     - [ ] Madness
-       - [ ] Liquid Nocxium
-       - [ ] Liquid Neutronium
-       - [ ] Liquid Anti-Neutronium
-     - Liquids I am debating
-       - [ ] Liquid Magnesite
-       - [ ] Liquid Mascagnite
-       - [ ] Liquid Methynol
-     - Things Not Done
-       - Cinnabar (simply yields mercury, already an FU liquid)
-       - Protocite (already has an FU liquid)
-       - Irradium (already has an FU liquid)
+  - [X] Non-metallurgy Things
+    - [X] Liquid Lead
+    - [X] Liquid Silicon
+    - [X] Liquid Sulphur
+    - [X] Liquid Oxygen
+  - [X] Nonradioactive Ores
+    - [X] Tier 2
+      - [X] Liquid Telebrium
+    - [X] Tier 3
+      - [X] Liquid Zerchesium
+      - [X] Liquid Penumbrite
+      - [X] Liquid Advanced Alloy
+    - [X] Tier 4
+      - [X] Liquid Trianglium
+      - [X] Liquid Quietus
+      - [X] Liquid Lasombrium
+    - [x] Tier 5
+      - [X] Liquid Effigium
+      - [x] Liquid Dense Alloy
+    - [X] Tier 6
+      - [X] Liquid Densinium
+      - [X] Liquid Pyreite
+      - [X] Liquid Isogen
+  - [X] Radioactive Ores
+      - [X] Liquid Plutonium (Note: why is this before uranium??)
+      - [X] Liquid Uranium
+      - [X] Liquid Neptunium
+      - [X] Liquid Thorium
+  - [ ] Crystalworking
+    - [ ] Liquid Lunari
+    - [ ] Liquid Prism
+    - [ ] Liquid Xithricite
+  - [ ] Madness
+    - [ ] Liquid Nocxium
+    - [ ] Liquid Neutronium
+    - [ ] Liquid Anti-Neutronium
+  - Liquids I am debating
+    - [ ] Liquid Magnesite
+    - [ ] Liquid Mascagnite
+    - [ ] Liquid Methynol
+  - Things Not Done
+    - Cinnabar (simply yields mercury, already an FU liquid)
+    - Protocite (already has an FU liquid)
+    - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Lead
