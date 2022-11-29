@@ -31,7 +31,7 @@ This mod does the following:
          - [X] Liquid Pyreite
          - [X] Liquid Isogen
      - [ ] Radioactive Ores
-         - [ ] Liquid Plutonium (Note: why is this before uranium??)
+         - [X] Liquid Plutonium (Note: why is this before uranium??)
          - [ ] Liquid Uranium
          - [ ] Liquid Neptunium
          - [ ] Liquid Thorium
@@ -86,6 +86,7 @@ This mod does the following:
   - [ ] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
   - [ ] Liquid Plutonium
+    - Yields Plutonium ore, oxygen, lead
   - [ ] Liquid Uranium
   - [ ] Liquid Neptunium
   - [ ] Liquid Thorium
