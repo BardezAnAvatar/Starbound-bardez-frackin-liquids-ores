@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-effigium",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-effigium.png",
+  "shortdescription" : "Liquid Effigium",
+  "description" : "A measure of molten effigium. Very difficult to see.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-effigium",
+  "price": 90
+}
