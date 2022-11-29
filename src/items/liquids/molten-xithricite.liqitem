@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-xithricite",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-xithricite.png",
+  "shortdescription" : "Liquid Xithricite",
+  "description" : "A measure of molten xithricite. Related to aetheric metals.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-xithricite",
+  "price": 120
+}
