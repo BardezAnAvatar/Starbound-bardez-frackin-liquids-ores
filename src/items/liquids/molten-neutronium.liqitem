@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-neutronium",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-neutronium.png",
+  "shortdescription" : "Liquid Neutronium",
+  "description" : "A measure of molten neutronium. Stuff of stars.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-neutronium",
+  "price": 150
+}

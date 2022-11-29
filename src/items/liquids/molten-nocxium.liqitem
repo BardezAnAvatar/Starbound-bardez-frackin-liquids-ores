@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-nocxium",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-nocxium.png",
+  "shortdescription" : "Liquid Nocxium",
+  "description" : "A measure of molten nocxium. Looking at it hurts the brain.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-nocxium",
+  "price": 150
+}

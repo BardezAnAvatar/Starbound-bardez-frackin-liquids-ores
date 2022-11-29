@@ -6,7 +6,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
+- [X] Adds in even more liquids based on Frackin' Universe ores/materials:
   - [X] Non-metallurgy Things
     - [X] Liquid Lead
     - [X] Liquid Silicon
@@ -31,22 +31,18 @@ This mod does the following:
       - [X] Liquid Pyreite
       - [X] Liquid Isogen
   - [X] Radioactive Ores
-      - [X] Liquid Plutonium (Note: why is this before uranium??)
-      - [X] Liquid Uranium
-      - [X] Liquid Neptunium
-      - [X] Liquid Thorium
+    - [X] Liquid Plutonium (Note: why is this before uranium??)
+    - [X] Liquid Uranium
+    - [X] Liquid Neptunium
+    - [X] Liquid Thorium
   - [X] Crystalworking
     - [X] Liquid Lunari
     - [X] Liquid Prisilite
     - [X] Liquid Xithricite
-  - [ ] Madness
-    - [ ] Liquid Nocxium
-    - [ ] Liquid Neutronium
-    - [ ] Liquid Anti-Neutronium
-  - Liquids I am debating
-    - [ ] Liquid Magnesite
-    - [ ] Liquid Mascagnite
-    - [ ] Liquid Methynol
+  - [X] Madness
+    - [X] Liquid Nocxium
+    - [X] Liquid Neutronium
+    - [X] Liquid Anti-Neutronium
   - Things Not Done
     - Cinnabar (simply yields mercury, already an FU liquid)
     - Protocite (already has an FU liquid)
@@ -100,8 +96,11 @@ This mod does the following:
   - [ ] Liquid Xithricite
     - Yields Xithricite ore, silicon, CO2
   - [ ] Liquid Nocxium
+    - Yields Nocxium ore, Essentia Obscura, genes
   - [ ] Liquid Neutronium
+    - Yields red matter, dark matter, exotic matter
   - [ ] Liquid Anti-Neutronium
+    - Yields exotic particles, research, exotic matter
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
@@ -146,3 +145,10 @@ This mod does the following:
     - All of the radioactive ones should net some fun interactions to other radioactive liquids
       - neptunium->plutonium->uranium -> thorium
     - Maybe aether/obscura/etc yields anti-neutronium, etc.
+- TODO: Things I am not yet certain whether to do
+  - Liquids I am debating
+    - [ ] Liquid Magnesite
+    - [ ] Liquid Mascagnite
+    - [ ] Liquid Methynol
+    - [ ] Liquid Tritium
+    - [ ] Liquid Dark Matter

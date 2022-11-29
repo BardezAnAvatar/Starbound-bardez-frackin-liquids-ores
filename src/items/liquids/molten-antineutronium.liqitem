@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-antineutronium",
+  "rarity" : "legendary",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-antineutronium.png",
+  "shortdescription" : "Liquid Antineutronium",
+  "description" : "A measure of molten antineutronium. Theory made reality.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-antineutronium",
+  "price": 150
+}
