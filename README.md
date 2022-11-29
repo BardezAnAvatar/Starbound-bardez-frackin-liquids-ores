@@ -12,7 +12,7 @@ This mod does the following:
        - [X] Liquid Silicon
        - [X] Liquid Sulphur
        - [X] Liquid Oxygen
-     - [ ] Nonradioactive Ores
+     - [X] Nonradioactive Ores
        - [X] Tier 2
          - [X] Liquid Telebrium
        - [X] Tier 3
@@ -31,13 +31,9 @@ This mod does the following:
          - [X] Liquid Pyreite
          - [X] Liquid Isogen
      - [ ] Radioactive Ores
-       - [ ] Tier 2
          - [ ] Liquid Plutonium (Note: why is this before uranium??)
-       - [ ] Tier 3
          - [ ] Liquid Uranium
-       - [ ] Tier 4
          - [ ] Liquid Neptunium
-       - [ ] Tier 5
          - [ ] Liquid Thorium
      - [ ] Crystalworking
        - [ ] Liquid Lunari
