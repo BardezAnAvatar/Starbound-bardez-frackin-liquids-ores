@@ -26,10 +26,10 @@ This mod does the following:
        - [x] Tier 5
          - [X] Liquid Effigium
          - [x] Liquid Dense Alloy
-       - [ ] Tier 6
+       - [X] Tier 6
          - [X] Liquid Densinium
          - [X] Liquid Pyreite
-         - [ ] Liquid Isogen
+         - [X] Liquid Isogen
      - [ ] Radioactive Ores
        - [ ] Tier 2
          - [ ] Liquid Plutonium (Note: why is this before uranium??)
@@ -88,6 +88,7 @@ This mod does the following:
   - [ ] Liquid Pyreite
     - Yields Pyreite ore, phosphorus, oxygen
   - [ ] Liquid Isogen
+    - Yields Isogen ore, oxygen, ice block
   - [ ] Liquid Plutonium
   - [ ] Liquid Uranium
   - [ ] Liquid Neptunium
