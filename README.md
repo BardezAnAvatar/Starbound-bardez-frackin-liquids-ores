@@ -32,7 +32,7 @@ This mod does the following:
          - [X] Liquid Isogen
      - [ ] Radioactive Ores
          - [X] Liquid Plutonium (Note: why is this before uranium??)
-         - [ ] Liquid Uranium
+         - [X] Liquid Uranium
          - [ ] Liquid Neptunium
          - [ ] Liquid Thorium
      - [ ] Crystalworking
@@ -88,6 +88,7 @@ This mod does the following:
   - [ ] Liquid Plutonium
     - Yields Plutonium ore, oxygen, lead
   - [ ] Liquid Uranium
+    - Yields Uranium ore, oxygen, Plutonium ore, lead
   - [ ] Liquid Neptunium
   - [ ] Liquid Thorium
   - [ ] Liquid Lunari
