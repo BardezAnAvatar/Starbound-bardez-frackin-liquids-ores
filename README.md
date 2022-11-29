@@ -86,11 +86,13 @@ This mod does the following:
   - [ ] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
   - [ ] Liquid Plutonium
-    - Yields Plutonium ore, oxygen, lead
+    - Yields Plutonium ore, oxygen, uranium ore
   - [ ] Liquid Uranium
-    - Yields Uranium ore, oxygen, Plutonium ore, lead
+    - Yields Uranium ore, oxygen, thorium ore, lead
   - [ ] Liquid Neptunium
+    - Yields Neptunium ore, oxygen, Plutonium ore, lead
   - [ ] Liquid Thorium
+    - Yields Thorium ore, oxygen, lead
   - [ ] Liquid Lunari
   - [ ] Liquid Prism
   - [ ] Liquid Xithricite
@@ -136,3 +138,8 @@ This mod does the following:
        - [ ] Liquid Nocxium
        - [ ] Liquid Neutronium
        - [ ] Liquid Anti-Neutronium
+  - [ ] Adds liquid mixing reactions
+    - [ ] TODO: what reactions do I want to add?
+      - All of the radioactive ones should net some fun interactions to other radioactive liquids
+        - neptunium->plutonium->uranium -> thorium
+      - Maybe aether/obscura/etc yields anti-neutronium, etc.
