@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-trianglium",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-trianglium.png",
+  "shortdescription" : "Liquid Trianglium",
+  "description" : "A measure of molten trianglium. Looks triangular.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-trianglium",
+  "price": 40
+}

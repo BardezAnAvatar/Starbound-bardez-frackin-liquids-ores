@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-quietus",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-quietus.png",
+  "shortdescription" : "Liquid Quietus",
+  "description" : "A measure of molten quietus. Emits sounds like soft screams.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-quietus",
+  "price": 50
+}

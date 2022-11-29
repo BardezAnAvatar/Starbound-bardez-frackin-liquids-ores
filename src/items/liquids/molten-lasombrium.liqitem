@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-lasombrium",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-lasombrium.png",
+  "shortdescription" : "Liquid lasombrium",
+  "description" : "A measure of molten lasombrium. Feels...wrong, somehow.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-lasombrium",
+  "price": 50
+}
