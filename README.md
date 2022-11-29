@@ -31,10 +31,10 @@ This mod does the following:
       - [X] Liquid Pyreite
       - [X] Liquid Isogen
   - [X] Radioactive Ores
-      - [X] Liquid Plutonium (Note: why is this before uranium??)
-      - [X] Liquid Uranium
-      - [X] Liquid Neptunium
-      - [X] Liquid Thorium
+    - [X] Liquid Plutonium (Note: why is this before uranium??)
+    - [X] Liquid Uranium
+    - [X] Liquid Neptunium
+    - [X] Liquid Thorium
   - [X] Crystalworking
     - [X] Liquid Lunari
     - [X] Liquid Prisilite
