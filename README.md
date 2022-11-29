@@ -82,6 +82,7 @@ This mod does the following:
   - [ ] Liquid Effigium
     - Yields effigium ore, liquid silver (rare), silicon
   - [ ] Liquid Dense Alloy
+    - Yields aegisalt ore, ferozium ore, violium ore, lead
   - [ ] Liquid Densinium
   - [ ] Liquid Pyreite
   - [ ] Liquid Isogen
