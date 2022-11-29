@@ -35,10 +35,10 @@ This mod does the following:
       - [X] Liquid Uranium
       - [X] Liquid Neptunium
       - [X] Liquid Thorium
-  - [ ] Crystalworking
+  - [X] Crystalworking
     - [X] Liquid Lunari
     - [X] Liquid Prisilite
-    - [ ] Liquid Xithricite
+    - [X] Liquid Xithricite
   - [ ] Madness
     - [ ] Liquid Nocxium
     - [ ] Liquid Neutronium
@@ -98,6 +98,7 @@ This mod does the following:
   - [ ] Liquid Prisilite
     - Yields Prism Shard, crystal, silicon, CO2
   - [ ] Liquid Xithricite
+    - Yields Xithricite ore, silicon, CO2
   - [ ] Liquid Nocxium
   - [ ] Liquid Neutronium
   - [ ] Liquid Anti-Neutronium
