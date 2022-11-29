@@ -33,7 +33,7 @@ This mod does the following:
      - [ ] Radioactive Ores
          - [X] Liquid Plutonium (Note: why is this before uranium??)
          - [X] Liquid Uranium
-         - [ ] Liquid Neptunium
+         - [X] Liquid Neptunium
          - [ ] Liquid Thorium
      - [ ] Crystalworking
        - [ ] Liquid Lunari
