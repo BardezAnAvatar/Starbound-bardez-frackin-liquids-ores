@@ -28,7 +28,7 @@ This mod does the following:
          - [x] Liquid Dense Alloy
        - [ ] Tier 6
          - [X] Liquid Densinium
-         - [ ] Liquid Pyreite
+         - [X] Liquid Pyreite
          - [ ] Liquid Isogen
      - [ ] Radioactive Ores
        - [ ] Tier 2
@@ -86,6 +86,7 @@ This mod does the following:
   - [ ] Liquid Densinium
     - Yields Densinium ore, lead, silicon
   - [ ] Liquid Pyreite
+    - Yields Pyreite ore, phosphorus, oxygen
   - [ ] Liquid Isogen
   - [ ] Liquid Plutonium
   - [ ] Liquid Uranium
