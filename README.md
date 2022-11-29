@@ -19,10 +19,10 @@ This mod does the following:
          - [X] Liquid Zerchesium
          - [X] Liquid Penumbrite
          - [X] Liquid Advanced Alloy
-       - [ ] Tier 4
+       - [X] Tier 4
          - [X] Liquid Trianglium
          - [X] Liquid Quietus
-         - [ ] Liquid Lasombrium
+         - [X] Liquid Lasombrium
        - [ ] Tier 5
          - [ ] Liquid Effigium
          - [ ] Liquid Dense Alloy
@@ -76,7 +76,9 @@ This mod does the following:
   - [ ] Liquid Trianglium
     - Yields trianglium ore, pixel, sand
   - [ ] Liquid Quietus
+    - Yields quietus ore, genes, silicon
   - [ ] Liquid Lasombrium
+    - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
   - [ ] Liquid Effigium
   - [ ] Liquid Dense Alloy
   - [ ] Liquid Densinium
