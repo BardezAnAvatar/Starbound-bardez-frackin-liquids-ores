@@ -30,7 +30,7 @@ This mod does the following:
     - Protocite (already has an FU liquid)
     - Irradium (already has an FU liquid)
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Telebrium
+  - [X] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
   - [ ] Liquid Zerchesium
     - Yields Zerchesium ore, silt CO2
