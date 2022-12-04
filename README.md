@@ -32,7 +32,7 @@ This mod does the following:
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
-  - [ ] Liquid Zerchesium
+  - [X] Liquid Zerchesium
     - Yields Zerchesium ore, silt CO2
   - [ ] Liquid Penumbrite
     - Yields penumbrite ore, sand, hydrogen

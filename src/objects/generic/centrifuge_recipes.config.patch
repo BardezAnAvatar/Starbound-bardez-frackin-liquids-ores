@@ -12,5 +12,14 @@
       "moondust": ["uncommon", 1],
       "moonore": ["common", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-zerchesium",
+    "value" : {
+      "fu_carbondioxide": ["rare", 1],
+      "sand": ["uncommon", 1],
+      "zerchesiumore": ["common", 1]
+    }
   }
 ]
