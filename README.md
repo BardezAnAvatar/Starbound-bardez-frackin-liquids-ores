@@ -7,7 +7,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [X] Adds in even more liquids based on Frackin' Universe ores/bars/similar:
-  - [X] Nonradioactive Ores
+  - [X] Bars
     - [X] Tier 2
       - [X] Liquid Telebrium
     - [X] Tier 3
@@ -25,11 +25,6 @@ This mod does the following:
       - [X] Liquid Densinium
       - [X] Liquid Pyreite
       - [X] Liquid Isogen
-  - [X] Radioactive Ores
-    - [X] Liquid Plutonium (Note: why is this before uranium??)
-    - [X] Liquid Uranium
-    - [X] Liquid Neptunium
-    - [X] Liquid Thorium
   - [X] Crystalworking
     - [X] Liquid Lunari
     - [X] Liquid Prisilite
@@ -42,7 +37,6 @@ This mod does the following:
     - Cinnabar (simply yields mercury, already an FU liquid)
     - Protocite (already has an FU liquid)
     - Irradium (already has an FU liquid)
-
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
@@ -68,13 +62,6 @@ This mod does the following:
     - Yields Pyreite ore, phosphorus, oxygen
   - [ ] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
-  - [ ] Liquid Plutonium
-    - Yields Plutonium ore, oxygen, uranium ore
-  - [ ] Liquid Uranium
-    - Yields Uranium ore, oxygen, thorium ore, lead
-  - [ ] Liquid Neptunium
-    - Yields Neptunium ore, oxygen, Plutonium ore, lead
-  - [ ] Liquid Thorium
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
   - [ ] Liquid Lunari
     - Yields Lunari Shard, crystal, carbon, CO2
@@ -91,7 +78,7 @@ This mod does the following:
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Nonradioactive Ores
+  - [ ] Bars
     - [ ] Tier 2
       - [ ] Liquid Telebrium
     - [ ] Tier 3
@@ -109,11 +96,6 @@ This mod does the following:
       - [ ] Liquid Densinium
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
-  - [ ] Radioactive Ores
-      - [ ] Liquid Plutonium
-      - [ ] Liquid Uranium
-      - [ ] Liquid Neptunium
-      - [ ] Liquid Thorium
   - [ ] Crystalworking
     - [ ] Liquid Lunari
     - [ ] Liquid Prism
@@ -124,6 +106,8 @@ This mod does the following:
     - [ ] Liquid Anti-Neutronium
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
-    - All of the radioactive ones should net some fun interactions to other radioactive liquids
-      - neptunium->plutonium->uranium -> thorium
     - Maybe aether/obscura/etc yields anti-neutronium, etc.
+- TODO: Things I am not yet certain whether to do
+  - Liquids I am debating
+    - [ ] Liquid Dark Matter
+    - [ ] Liquid Aetherium Alloy
