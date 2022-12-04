@@ -30,5 +30,16 @@
       "sand2": ["uncommon", 1],
       "penumbriteore": ["common", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-advanced-alloy",
+    "value" : {
+      "zerchesiumore": ["uncommon", 1],
+      "lead": ["uncommon", 1],
+      "penumbriteore": ["uncommon", 1],
+      "protociteore": ["uncommon", 1],
+      "fu_carbondioxide": ["common", 1]
+    }
   }
 ]
