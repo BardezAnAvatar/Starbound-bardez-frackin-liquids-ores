@@ -127,3 +127,8 @@ This mod does the following:
     - All of the radioactive ones should net some fun interactions to other radioactive liquids
       - neptunium->plutonium->uranium -> thorium
     - Maybe aether/obscura/etc yields anti-neutronium, etc.
+- TODO: Things I am not yet certain whether to do
+  - Liquids I am debating
+    - [ ] Liquid Tritium
+    - [ ] Liquid Dark Matter
+    - [ ] Liquid Aetherium Alloy
