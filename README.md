@@ -34,7 +34,7 @@ This mod does the following:
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
   - [X] Liquid Zerchesium
     - Yields Zerchesium ore, silt CO2
-  - [ ] Liquid Penumbrite
+  - [X] Liquid Penumbrite
     - Yields penumbrite ore, sand, hydrogen
   - [ ] Liquid Advanced Alloy
     - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare)
