@@ -7,7 +7,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [X] Adds in even more liquids based on Frackin' Universe ores/bars/similar:
-  - [X] Nonradioactive Ores
+  - [X] Bars
     - [X] Tier 2
       - [X] Liquid Telebrium
     - [X] Tier 3
@@ -37,7 +37,6 @@ This mod does the following:
     - Cinnabar (simply yields mercury, already an FU liquid)
     - Protocite (already has an FU liquid)
     - Irradium (already has an FU liquid)
-
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
@@ -79,7 +78,7 @@ This mod does the following:
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Nonradioactive Ores
+  - [ ] Bars
     - [ ] Tier 2
       - [ ] Liquid Telebrium
     - [ ] Tier 3
