@@ -48,7 +48,7 @@ This mod does the following:
     - Yields effigium ore, ~~liquid~~ silver (rare), silicon
   - [X] Liquid Dense Alloy
     - Yields aegisalt ore, ferozium ore, violium ore, lead
-  - [ ] Liquid Densinium
+  - [X] Liquid Densinium
     - Yields Densinium ore, lead, silicon
   - [ ] Liquid Pyreite
     - Yields Pyreite ore, phosphorus, oxygen

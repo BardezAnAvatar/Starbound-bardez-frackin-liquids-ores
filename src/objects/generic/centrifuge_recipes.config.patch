@@ -87,5 +87,14 @@
       "violiumore": ["uncommon", 2],
       "lead": ["common", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-densinium",
+    "value" : {
+      "ff_silicon": ["rare", 1],
+      "densiniumore": ["uncommon", 2],
+      "lead": ["common", 1]
+    }
   }
 ]
