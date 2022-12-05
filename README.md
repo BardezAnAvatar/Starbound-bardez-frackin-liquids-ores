@@ -8,23 +8,21 @@ This mod does the following:
 
 - [X] Adds in even more liquids based on Frackin' Universe ores/bars/similar:
   - [X] Bars
-    - [X] Tier 2
-      - [X] Liquid Telebrium
-    - [X] Tier 3
-      - [X] Liquid Zerchesium
-      - [X] Liquid Penumbrite
-      - [X] Liquid Advanced Alloy
-    - [X] Tier 4
-      - [X] Liquid Trianglium
-      - [X] Liquid Quietus
-      - [X] Liquid Lasombrium
-    - [x] Tier 5
-      - [X] Liquid Effigium
-      - [x] Liquid Dense Alloy
-    - [X] Tier 6
-      - [X] Liquid Densinium
-      - [X] Liquid Pyreite
-      - [X] Liquid Isogen
+    | Liquid                | Tier  | Liquid ID |
+    |-----------------------|-------|-----------|
+    | Liquid Telebrium      | 2     | 116       |
+    | Liquid Zerchesium     | 3     | 117       |
+    | Liquid Penumbrite     | 3     | 118       |
+    | Liquid Advanced Alloy | 3     | 119       |
+    | Liquid Trianglium     | 4     | 120       |
+    | Liquid Quietus        | 4     | 121       |
+    | Liquid Lasombrium     | 4     | 122       |
+    | Liquid Effigium       | 5     | 123       |
+    | Liquid Dense Alloy    | 5     | 124       |
+    | Liquid Densinium      | 6     | 125       |
+    | Liquid Pyreite        | 6     | 126       |
+    | Liquid Isogen         | 6     | 127       |
+
   - Things Not Done
     - Cinnabar (simply yields mercury, already an FU liquid)
     - Protocite (already has an FU liquid)
