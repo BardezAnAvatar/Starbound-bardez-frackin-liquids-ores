@@ -51,4 +51,13 @@
       "pixel": ["normal", 1]
     }
   },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-quietus",
+    "value" : {
+      "ff_silicon": ["uncommon", 3],
+      "quietusore": ["uncommon", 1],
+      "fugeneticmaterial": ["normal", 1]
+    }
+  }
 ]

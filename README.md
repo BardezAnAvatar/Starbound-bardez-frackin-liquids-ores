@@ -40,7 +40,7 @@ This mod does the following:
     - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare) + CO2 common
   - [X] Liquid Trianglium
     - Yields trianglium ore, pixel, ~~sand~~ chromatic dirt
-  - [ ] Liquid Quietus
+  - [X] Liquid Quietus
     - Yields quietus ore, genes, silicon
   - [ ] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
