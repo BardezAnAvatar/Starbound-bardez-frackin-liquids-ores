@@ -53,6 +53,8 @@ This mod does the following:
     - Yields Pyreite ore, phosphorus, oxygen, lava
   - [X] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
+  - [ ] Liquid Aetherium Alloy
+    - Yields densiumium ore, solarium star, Xithricite ore, liquidaether
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
