@@ -1,4 +1,4 @@
-# Starbound-bardez-ore-liquids-frackin
+# Starbound-bardez-frackin-liquids-ores
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
 - [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
@@ -29,32 +29,31 @@ This mod does the following:
     - Cinnabar (simply yields mercury, already an FU liquid)
     - Protocite (already has an FU liquid)
     - Irradium (already has an FU liquid)
-- [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Telebrium
+- [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+  - [X] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
-  - [ ] Liquid Zerchesium
+  - [X] Liquid Zerchesium
     - Yields Zerchesium ore, silt CO2
-  - [ ] Liquid Penumbrite
+  - [X] Liquid Penumbrite
     - Yields penumbrite ore, sand, hydrogen
-  - [ ] Liquid Advanced Alloy
-    - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare)
-  - [ ] Liquid Trianglium
-    - Yields trianglium ore, pixel, sand
-  - [ ] Liquid Quietus
+  - [X] Liquid Advanced Alloy
+    - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare) + CO2 common
+  - [X] Liquid Trianglium
+    - Yields trianglium ore, pixel, ~~sand~~ chromatic dirt
+  - [X] Liquid Quietus
     - Yields quietus ore, genes, silicon
-  - [ ] Liquid Lasombrium
+  - [X] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
-  - [ ] Liquid Effigium
-    - Yields effigium ore, liquid silver (rare), silicon
-  - [ ] Liquid Dense Alloy
+  - [X] Liquid Effigium
+    - Yields effigium ore, ~~liquid~~ silver (rare), silicon
+  - [X] Liquid Dense Alloy
     - Yields aegisalt ore, ferozium ore, violium ore, lead
-  - [ ] Liquid Densinium
+  - [X] Liquid Densinium
     - Yields Densinium ore, lead, silicon
-  - [ ] Liquid Pyreite
-    - Yields Pyreite ore, phosphorus, oxygen
-  - [ ] Liquid Isogen
+  - [X] Liquid Pyreite
+    - Yields Pyreite ore, phosphorus, oxygen, lava
+  - [X] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
-    - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids

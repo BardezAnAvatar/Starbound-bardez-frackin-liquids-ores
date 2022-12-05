@@ -1,0 +1,119 @@
+[
+  /*
+  Note: Centrifuges only ever spawn 1 item per input. The second index after the commonality is not a spawn count, but instead
+  the divisor of the occurrance. i.e.: makes it even rarer than it already is. See: /objects/bees/centrifuge.lua, method `update(dt)`
+  */
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-telebrium",
+    "value" : {
+      "helium3gasliquid": ["rarest", 4],
+      "moonrock": ["rare", 1],
+      "moondust": ["uncommon", 1],
+      "moonore": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-zerchesium",
+    "value" : {
+      "fu_carbondioxide": ["rare", 1],
+      "sand": ["uncommon", 1],
+      "zerchesiumore": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-penumbrite",
+    "value" : {
+      "fu_hydrogen": ["rare", 1],
+      "sand2": ["uncommon", 1],
+      "penumbriteore": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-advanced-alloy",
+    "value" : {
+      "zerchesiumore": ["uncommon", 1],
+      "lead": ["uncommon", 1],
+      "penumbriteore": ["uncommon", 1],
+      "protociteore": ["uncommon", 1],
+      "fu_carbondioxide": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-trianglium",
+    "value" : {
+      "chromadirtmaterial": ["rare", 1],
+      "triangliumore": ["uncommon", 1],
+      "pixel": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-quietus",
+    "value" : {
+      "ff_silicon": ["uncommon", 3],
+      "quietusore": ["uncommon", 1],
+      "fugeneticmaterial": ["normal", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-lasombrium",
+    "value" : {
+      "liquidelderfluid": ["rare", 5],
+      "liquiddarkwater": ["rare", 1],
+      "corruptionore": ["uncommon", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-effigium",
+    "value" : {
+      "ff_silicon": ["uncommon", 3],
+      "silverore": ["rare", 1],
+      "effigiumore": ["uncommon", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-dense-alloy",
+    "value" : {
+      "aegisaltore": ["uncommon", 2],
+      "feroziumore": ["uncommon", 2],
+      "violiumore": ["uncommon", 2],
+      "lead": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-densinium",
+    "value" : {
+      "ff_silicon": ["rare", 1],
+      "densiniumore": ["uncommon", 2],
+      "lead": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-pyreite",
+    "value" : {
+      "oxygen": ["rare", 1],
+      "lava": ["rare", 3],
+      "phosphorus": ["uncommon", 1],
+      "pyreiteore": ["common", 2],
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-isogen
+    "value" : {
+      "iceblock": ["rare", 1],
+      "oxygen": ["uncommon", 2],
+      "isogenore": ["common", 2],
+    }
+  }
+]
