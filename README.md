@@ -54,7 +54,6 @@ This mod does the following:
     - Yields Pyreite ore, phosphorus, oxygen, lava
   - [X] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
-    - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
     - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
