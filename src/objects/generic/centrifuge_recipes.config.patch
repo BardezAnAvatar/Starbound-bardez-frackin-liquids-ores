@@ -77,5 +77,15 @@
       "silverore": ["rare", 1],
       "effigiumore": ["uncommon", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-dense-alloy",
+    "value" : {
+      "aegisaltore": ["uncommon", 2],
+      "feroziumore": ["uncommon", 2],
+      "violiumore": ["uncommon", 2],
+      "lead": ["common", 1]
+    }
   }
 ]
