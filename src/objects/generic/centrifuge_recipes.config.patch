@@ -106,5 +106,14 @@
       "phosphorus": ["uncommon", 1],
       "pyreiteore": ["common", 2],
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-isogen
+    "value" : {
+      "iceblock": ["rare", 1],
+      "oxygen": ["uncommon", 2],
+      "isogenore": ["common", 2],
+    }
   }
 ]

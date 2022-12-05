@@ -52,7 +52,7 @@ This mod does the following:
     - Yields Densinium ore, lead, silicon
   - [X] Liquid Pyreite
     - Yields Pyreite ore, phosphorus, oxygen, lava
-  - [ ] Liquid Isogen
+  - [X] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
