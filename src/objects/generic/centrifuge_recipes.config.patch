@@ -96,5 +96,15 @@
       "densiniumore": ["uncommon", 2],
       "lead": ["common", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-pyreite",
+    "value" : {
+      "oxygen": ["rare", 1],
+      "lava": ["rare", 3],
+      "phosphorus": ["uncommon", 1],
+      "pyreiteore": ["common", 2],
+    }
   }
 ]

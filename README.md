@@ -50,8 +50,8 @@ This mod does the following:
     - Yields aegisalt ore, ferozium ore, violium ore, lead
   - [X] Liquid Densinium
     - Yields Densinium ore, lead, silicon
-  - [ ] Liquid Pyreite
-    - Yields Pyreite ore, phosphorus, oxygen
+  - [X] Liquid Pyreite
+    - Yields Pyreite ore, phosphorus, oxygen, lava
   - [ ] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
