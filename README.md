@@ -54,7 +54,6 @@ This mod does the following:
   - [X] Liquid Isogen
     - Yields Isogen ore, oxygen, ice block
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
-    - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
     - [ ] Tier 2
