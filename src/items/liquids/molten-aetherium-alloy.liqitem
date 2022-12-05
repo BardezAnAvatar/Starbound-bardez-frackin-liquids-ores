@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-aetherium-alloy",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-aetherium-alloy.png",
+  "shortdescription" : "Liquid Aetherium Alloy",
+  "description" : "A measure of molten aetherium alloy. Materials of gods, heated to temperatures of creation.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-aetherium-alloy",
+  "price": 300
+}
