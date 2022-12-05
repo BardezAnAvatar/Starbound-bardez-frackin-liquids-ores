@@ -44,8 +44,8 @@ This mod does the following:
     - Yields quietus ore, genes, silicon
   - [X] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
-  - [ ] Liquid Effigium
-    - Yields effigium ore, liquid silver (rare), silicon
+  - [X] Liquid Effigium
+    - Yields effigium ore, ~~liquid~~ silver (rare), silicon
   - [ ] Liquid Dense Alloy
     - Yields aegisalt ore, ferozium ore, violium ore, lead
   - [ ] Liquid Densinium

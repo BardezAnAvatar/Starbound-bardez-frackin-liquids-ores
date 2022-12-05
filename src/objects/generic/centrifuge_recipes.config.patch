@@ -68,5 +68,14 @@
       "liquiddarkwater": ["rare", 1],
       "corruptionore": ["uncommon", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-effigium",
+    "value" : {
+      "ff_silicon": ["uncommon", 3],
+      "silverore": ["rare", 1],
+      "effigiumore": ["uncommon", 1]
+    }
   }
 ]
