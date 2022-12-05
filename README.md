@@ -22,7 +22,7 @@ This mod does the following:
     | Liquid Densinium       | 6     | 125       |
     | Liquid Pyreite         | 6     | 126       |
     | Liquid Isogen          | 6     | 127       |
-    | Liquid Aetherium Alloy | 6     | 129       |
+    | Liquid Aetherium Alloy | 8     | 129       |
 
   - Things Not Done
     - Cinnabar (simply yields mercury, already an FU liquid)
