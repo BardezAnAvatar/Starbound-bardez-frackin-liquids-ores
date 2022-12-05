@@ -101,19 +101,30 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-pyreite",
     "value" : {
-      "oxygen": ["rare", 1],
+      "fu_oxygen": ["rare", 1],
       "lava": ["rare", 3],
       "phosphorus": ["uncommon", 1],
-      "pyreiteore": ["common", 2],
+      "pyreiteore": ["common", 2]
     }
   },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-isogen
+    "path" : "/itemMapLiquids/molten-isogen",
     "value" : {
       "iceblock": ["rare", 1],
-      "oxygen": ["uncommon", 2],
-      "isogenore": ["common", 2],
+      "fu_oxygen": ["uncommon", 2],
+      "isogenore": ["common", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-advanced-alloy",
+    "value" : {
+      "liquidaether": ["rare", 2],
+      "fu_hydrogen": ["uncommon", 2],
+      "solariumstar": ["uncommon", 2],
+      "densiniumore": ["uncommon", 2],
+      "xithriciteore": ["uncommon", 2]
     }
   }
 ]
