@@ -42,7 +42,7 @@ This mod does the following:
     - Yields trianglium ore, pixel, ~~sand~~ chromatic dirt
   - [X] Liquid Quietus
     - Yields quietus ore, genes, silicon
-  - [ ] Liquid Lasombrium
+  - [X] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
   - [ ] Liquid Effigium
     - Yields effigium ore, liquid silver (rare), silicon

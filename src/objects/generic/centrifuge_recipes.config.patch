@@ -59,5 +59,14 @@
       "quietusore": ["uncommon", 1],
       "fugeneticmaterial": ["normal", 1]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-lasombrium",
+    "value" : {
+      "liquidelderfluid": ["rare", 5],
+      "liquiddarkwater": ["rare", 1],
+      "corruptionore": ["uncommon", 1]
+    }
   }
 ]
