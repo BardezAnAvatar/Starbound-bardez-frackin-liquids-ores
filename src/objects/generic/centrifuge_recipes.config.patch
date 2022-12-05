@@ -41,5 +41,14 @@
       "protociteore": ["uncommon", 1],
       "fu_carbondioxide": ["common", 1]
     }
-  }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-trianglium",
+    "value" : {
+      "chromadirtmaterial": ["rare", 1],
+      "triangliumore": ["uncommon", 1],
+      "pixel": ["normal", 1]
+    }
+  },
 ]

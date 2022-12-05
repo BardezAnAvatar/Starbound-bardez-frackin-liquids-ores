@@ -38,8 +38,8 @@ This mod does the following:
     - Yields penumbrite ore, sand, hydrogen
   - [X] Liquid Advanced Alloy
     - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare) + CO2 common
-  - [ ] Liquid Trianglium
-    - Yields trianglium ore, pixel, sand
+  - [X] Liquid Trianglium
+    - Yields trianglium ore, pixel, ~~sand~~ chromatic dirt
   - [ ] Liquid Quietus
     - Yields quietus ore, genes, silicon
   - [ ] Liquid Lasombrium
