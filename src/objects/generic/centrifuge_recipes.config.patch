@@ -109,16 +109,16 @@
   },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-isogen
+    "path" : "/itemMapLiquids/molten-isogen",
     "value" : {
       "iceblock": ["rare", 1],
       "fu_oxygen": ["uncommon", 2],
       "isogenore": ["common", 2]
     }
-  }
+  },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-advanced-alloy
+    "path" : "/itemMapLiquids/molten-advanced-alloy",
     "value" : {
       "liquidaether": ["rare", 2],
       "fu_hydrogen": ["uncommon", 2],
