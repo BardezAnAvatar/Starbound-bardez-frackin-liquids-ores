@@ -55,7 +55,7 @@ This mod does the following:
     - Yields Isogen ore, oxygen, ice block
   - [X] Liquid Aetherium Alloy
     - Yields densiumium ore, solarium star, Xithricite ore, liquidaether
-- [X] Adds conversion recipes to crafting station(s) for t  hese liquids
+- [X] Adds conversion recipes to crafting station(s) for these liquids
     - [X] Primitive Furnace
       - [X] Liquid Telebrium
     - [X] Industrioal Furnace
