@@ -62,7 +62,7 @@ This mod does the following:
       - [X] Liquid Advanced Alloy
         - [X] Allows you to alloy from liquids or bars, too
       - [X] Liquid Zerchesium
-      - [ ] Liquid Penumbrite
+      - [X] Liquid Penumbrite
     - [ ] Tier 4
       - [ ] Liquid Trianglium
       - [ ] Liquid Quietus
