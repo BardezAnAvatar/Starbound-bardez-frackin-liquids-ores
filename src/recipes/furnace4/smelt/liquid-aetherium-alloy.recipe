@@ -3,7 +3,7 @@
     { "item" : "aetheriumalloy", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-aetherium-alloy",
+    "item" : "molten-aetherium-alloy",
     "count" : 4
   },
   "duration" : 0.2,

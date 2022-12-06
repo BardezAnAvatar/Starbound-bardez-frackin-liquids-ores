@@ -3,7 +3,7 @@
     { "item" : "pyreitebar", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-pyreite",
+    "item" : "molten-pyreite",
     "count" : 4
   },
   "duration" : 0.2,

@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "liquid-zerchesium", "count" : 1 },
+    { "item" : "molten-zerchesium", "count" : 1 },
     { "item" : "vialproto", "count" : 1 },
-    { "item" : "liquid-penumbrite", "count" : 1 },
-    { "item" : "liquid-lead", "count" : 1 }
+    { "item" : "molten-penumbrite", "count" : 1 },
+    { "item" : "molten-lead", "count" : 1 }
   ],
   "output" : {
     "item" : "advancealloy",

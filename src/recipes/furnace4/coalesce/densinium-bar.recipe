@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-densinium", "count" : 4 }
+    { "item" : "molten-densinium", "count" : 4 }
   ],
   "output" : {
     "item" : "densiniumbar",

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-lasombrium", "count" : 4 }
+    { "item" : "molten-lasombrium", "count" : 4 }
   ],
   "output" : {
     "item" : "corruptionseed",

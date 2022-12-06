@@ -3,7 +3,7 @@
     { "item" : "isogenbar", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-isogen",
+    "item" : "molten-isogen",
     "count" : 4
   },
   "duration" : 0.2,

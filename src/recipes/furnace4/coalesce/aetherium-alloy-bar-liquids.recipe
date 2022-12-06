@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "liquid-densinium", "count" : 1 },
-    { "item" : "liquid-solarium", "count" : 1 },
-    { "item" : "liquid-xithricite", "count" : 1 },
+    { "item" : "molten-densinium", "count" : 1 },
+    { "item" : "molten-solarium", "count" : 1 },
+    { "item" : "molten-xithricite", "count" : 1 },
     { "item" : "staticcell", "count" : 1 }
   ],
   "output" : {

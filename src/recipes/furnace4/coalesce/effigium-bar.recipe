@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-effigium", "count" : 4 }
+    { "item" : "molten-effigium", "count" : 4 }
   ],
   "output" : {
     "item" : "effigiumbar",

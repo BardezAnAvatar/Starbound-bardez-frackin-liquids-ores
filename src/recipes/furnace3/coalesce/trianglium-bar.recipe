@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-trianglium", "count" : 4 }
+    { "item" : "molten-trianglium", "count" : 4 }
   ],
   "output" : {
     "item" : "triangliumpyramid",

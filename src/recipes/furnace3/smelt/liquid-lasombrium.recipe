@@ -3,7 +3,7 @@
     { "item" : "corruptionseed", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-lasombrium",
+    "item" : "molten-lasombrium",
     "count" : 4
   },
   "duration" : 0.2,

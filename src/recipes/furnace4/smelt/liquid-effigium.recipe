@@ -3,7 +3,7 @@
     { "item" : "effigiumbar", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-effigium",
+    "item" : "molten-effigium",
     "count" : 4
   },
   "duration" : 0.2,

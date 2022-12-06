@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-penumbrite", "count" : 4 }
+    { "item" : "molten-penumbrite", "count" : 4 }
   ],
   "output" : {
     "item" : "penumbriteshard",

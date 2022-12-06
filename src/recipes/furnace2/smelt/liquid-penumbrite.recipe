@@ -3,7 +3,7 @@
     { "item" : "penumbriteshard", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-penumbrite",
+    "item" : "molten-penumbrite",
     "count" : 4
   },
   "duration" : 0.2,
