@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "zerchesiumbar", "count" : 1 },
+    { "item" : "protocitebar", "count" : 1 },
+    { "item" : "penumbritebar", "count" : 1 },
+    { "item" : "lead", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "liquid-advanced-alloy",
+    "count" : 16
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}

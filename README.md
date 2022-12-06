@@ -59,7 +59,8 @@ This mod does the following:
     - [ ] Primitive Furnace
       - [X] Liquid Telebrium
     - [ ] Industrioal Furnace
-      - [ ] Liquid Advanced Alloy
+      - [X] Liquid Advanced Alloy
+        - [X] Allows you to alloy from liquids or bars, too
       - [ ] Liquid Zerchesium
       - [ ] Liquid Penumbrite
     - [ ] Tier 4

@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "liquid-zerchesium", "count" : 1 },
+    { "item" : "vialproto", "count" : 1 },
+    { "item" : "liquid-penumbrite", "count" : 1 },
+    { "item" : "liquid-lead", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "advancealloy",
+    "count" : 1
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace", "coalesce",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}
