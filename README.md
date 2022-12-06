@@ -68,7 +68,7 @@ This mod does the following:
       - [X] Liquid Quietus
       - [X] Liquid Lasombrium
       - [X] Liquid Dense Alloy
-    - [ ] Tier 5
+    - [ ] Fission Furnace
       - [X] Liquid Effigium
     - [ ] Tier 6
       - [ ] Liquid Densinium
