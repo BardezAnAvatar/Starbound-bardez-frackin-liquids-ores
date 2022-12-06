@@ -3,7 +3,7 @@
     { "item" : "liquid-penumbrite", "count" : 4 }
   ],
   "output" : {
-    "item" : "penumbritebar",
+    "item" : "penumbriteshard",
     "count" : 1
   },
   "duration" : 0.2,
