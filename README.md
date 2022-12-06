@@ -63,12 +63,12 @@ This mod does the following:
         - [X] Allows you to alloy from liquids or bars, too
       - [X] Liquid Zerchesium
       - [X] Liquid Penumbrite
-    - [ ] Atomic Furnace
+    - [X] Atomic Furnace
       - [X] Liquid Trianglium
       - [X] Liquid Quietus
       - [X] Liquid Lasombrium
     - [ ] Tier 5
-      - [ ] Liquid Effigium
+      - [X] Liquid Effigium
       - [ ] Liquid Dense Alloy
     - [ ] Tier 6
       - [ ] Liquid Densinium
