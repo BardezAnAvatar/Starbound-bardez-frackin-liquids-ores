@@ -72,7 +72,7 @@ This mod does the following:
       - [X] Liquid Effigium
       - [X] Liquid Densinium
       - [X] Liquid Pyreite
-      - [ ] Liquid Isogen
+      - [X] Liquid Isogen
       - [ ] Liquid Aetherium Alloy
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
