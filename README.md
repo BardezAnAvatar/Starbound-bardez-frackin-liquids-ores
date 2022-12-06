@@ -56,6 +56,23 @@ This mod does the following:
   - [X] Liquid Aetherium Alloy
     - Yields densiumium ore, solarium star, Xithricite ore, liquidaether
 - [ ] Adds conversion recipes to crafting station(s) for these liquids
+    - [ ] Primitive Furnace
+      - [X] Liquid Telebrium
+    - [ ] Industrioal Furnace
+      - [ ] Liquid Advanced Alloy
+      - [ ] Liquid Zerchesium
+      - [ ] Liquid Penumbrite
+    - [ ] Tier 4
+      - [ ] Liquid Trianglium
+      - [ ] Liquid Quietus
+      - [ ] Liquid Lasombrium
+    - [ ] Tier 5
+      - [ ] Liquid Effigium
+      - [ ] Liquid Dense Alloy
+    - [ ] Tier 6
+      - [ ] Liquid Densinium
+      - [ ] Liquid Pyreite
+      - [ ] Liquid Isogen
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
     - [ ] Tier 2
