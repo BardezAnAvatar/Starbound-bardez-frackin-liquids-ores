@@ -17,6 +17,7 @@ This mod does the following:
     | Liquid Trianglium      | 4     | 120       |
     | Liquid Quietus         | 4     | 121       |
     | Liquid Lasombrium      | 4     | 122       |
+    | Liquid Tritanium       | 4     | X         |
     | Liquid Effigium        | 5     | 123       |
     | Liquid Dense Alloy     | 5     | 124       |
     | Liquid Densinium       | 6     | 125       |
@@ -43,6 +44,8 @@ This mod does the following:
     - Yields quietus ore, genes, silicon
   - [X] Liquid Lasombrium
     - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
+  - [ ] Liquid Tritanium
+    - Yields Prisilite Star, Trianglium Pyramid, Irradium Bar, Lead,  + N common
   - [X] Liquid Effigium
     - Yields effigium ore, ~~liquid~~ silver (rare), silicon
   - [X] Liquid Dense Alloy
@@ -67,6 +70,7 @@ This mod does the following:
       - [X] Liquid Trianglium
       - [X] Liquid Quietus
       - [X] Liquid Lasombrium
+      - [ ] Liquid Tritanium
       - [X] Liquid Dense Alloy
     - [X] Fission Furnace
       - [X] Liquid Effigium
@@ -86,6 +90,7 @@ This mod does the following:
       - [ ] Liquid Trianglium
       - [ ] Liquid Quietus
       - [ ] Liquid Lasombrium
+      - [ ] Liquid Tritanium
     - [ ] Tier 5
       - [ ] Liquid Effigium
       - [ ] Liquid Dense Alloy
