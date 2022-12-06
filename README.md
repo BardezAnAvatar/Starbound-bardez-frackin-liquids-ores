@@ -65,7 +65,7 @@ This mod does the following:
       - [X] Liquid Penumbrite
     - [ ] Atomic Furnace
       - [X] Liquid Trianglium
-      - [ ] Liquid Quietus
+      - [X] Liquid Quietus
       - [ ] Liquid Lasombrium
     - [ ] Tier 5
       - [ ] Liquid Effigium
