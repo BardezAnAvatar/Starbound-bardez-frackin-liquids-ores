@@ -67,9 +67,9 @@ This mod does the following:
       - [X] Liquid Trianglium
       - [X] Liquid Quietus
       - [X] Liquid Lasombrium
+      - [X] Liquid Dense Alloy
     - [ ] Tier 5
       - [X] Liquid Effigium
-      - [ ] Liquid Dense Alloy
     - [ ] Tier 6
       - [ ] Liquid Densinium
       - [ ] Liquid Pyreite

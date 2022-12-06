@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "molten-aegisalt", "count" : 1 },
+    { "item" : "molten-ferozium", "count" : 1 },
+    { "item" : "molten-violium", "count" : 1 },
+    { "item" : "liquid-lead", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "densealloy",
+    "count" : 1
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace3", "coalesce",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}
