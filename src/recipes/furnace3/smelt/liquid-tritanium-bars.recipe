@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "prisilitestar", "count" : 1 },
+    { "item" : "triangliumpyramid", "count" : 1 },
+    { "item" : "irradiumbar", "count" : 1 },
+    { "item" : "lead", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "molten-dense-alloy",
+    "count" : 16
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace3", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}
