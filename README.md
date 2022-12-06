@@ -74,6 +74,8 @@ This mod does the following:
       - [ ] Liquid Densinium
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
+    - [ ] Tier 8
+      - [ ] Liquid Aetherium Alloy
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
     - [ ] Tier 2
@@ -93,6 +95,8 @@ This mod does the following:
       - [ ] Liquid Densinium
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
+    - [ ] Tier 8
+      - [ ] Liquid Aetherium Alloy
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
 - [ ] Things I am considering:
