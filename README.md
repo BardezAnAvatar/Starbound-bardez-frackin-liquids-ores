@@ -55,7 +55,7 @@ This mod does the following:
     - Yields Isogen ore, oxygen, ice block
   - [X] Liquid Aetherium Alloy
     - Yields densiumium ore, solarium star, Xithricite ore, liquidaether
-- [ ] Adds conversion recipes to crafting station(s) for these liquids
+- [ ] Adds conversion recipes to crafting station(s) for t  hese liquids
     - [X] Primitive Furnace
       - [X] Liquid Telebrium
     - [X] Industrioal Furnace
@@ -71,10 +71,8 @@ This mod does the following:
     - [ ] Fission Furnace
       - [X] Liquid Effigium
       - [X] Liquid Densinium
-    - [ ] Tier 6
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
-    - [ ] Tier 8
       - [ ] Liquid Aetherium Alloy
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
