@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "densiniumbar", "count" : 1 },
+    { "item" : "solariumstar", "count" : 1 },
+    { "item" : "xithricitecrystal", "count" : 1 },
+    { "item" : "staticcell", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "liquid-aetherium-alloy",
+    "count" : 12
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "fissionfurnace", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}
