@@ -3,7 +3,7 @@
     { "item" : "molten-aegisalt", "count" : 1 },
     { "item" : "molten-ferozium", "count" : 1 },
     { "item" : "molten-violium", "count" : 1 },
-    { "item" : "liquid-lead", "count" : 1 }
+    { "item" : "molten-lead", "count" : 1 }
   ],
   "output" : {
     "item" : "densealloy",

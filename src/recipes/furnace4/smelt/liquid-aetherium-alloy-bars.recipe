@@ -6,7 +6,7 @@
     { "item" : "staticcell", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-aetherium-alloy",
+    "item" : "molten-aetherium-alloy",
     "count" : 12
   },
   "duration" : 0.2,

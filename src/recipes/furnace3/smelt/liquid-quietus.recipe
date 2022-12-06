@@ -3,7 +3,7 @@
     { "item" : "quietusbar", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquid-quietus",
+    "item" : "molten-quietus",
     "count" : 4
   },
   "duration" : 0.2,

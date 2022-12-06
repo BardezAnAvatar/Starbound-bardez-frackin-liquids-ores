@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquid-isogen", "count" : 4 }
+    { "item" : "molten-isogen", "count" : 4 }
   ],
   "output" : {
     "item" : "isogenbar",
