@@ -6,7 +6,7 @@
     { "item" : "lead", "count" : 1 }
   ],
   "output" : {
-    "item" : "molten-dense-alloy",
+    "item" : "molten-tritanium",
     "count" : 16
   },
   "duration" : 0.2,
