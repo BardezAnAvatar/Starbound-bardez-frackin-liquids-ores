@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-tritanium",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-tritanium.png",
+  "shortdescription" : "Liquid tritanium",
+  "description" : "A measure of molten tritanium. Its existence seems almost whimsical.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-tritanium",
+  "price": 50
+}

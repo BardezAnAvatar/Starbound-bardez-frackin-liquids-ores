@@ -126,5 +126,17 @@
       "densiniumore": ["uncommon", 2],
       "xithriciteore": ["uncommon", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-tritanium",
+    "value" : {
+      "liquidaether": ["rare", 5],
+      "triangliumore": ["uncommon", 1],
+      "irradiumore": ["uncommon", 2],
+      "prisiliteore": ["uncommon", 2],
+      "lead": ["uncommon", 1],
+      "fu_nitrogen": ["common", 1]
+    }
   }
 ]
