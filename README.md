@@ -70,8 +70,8 @@ This mod does the following:
       - [X] Liquid Dense Alloy
     - [ ] Fission Furnace
       - [X] Liquid Effigium
+      - [X] Liquid Densinium
     - [ ] Tier 6
-      - [ ] Liquid Densinium
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
     - [ ] Tier 8
