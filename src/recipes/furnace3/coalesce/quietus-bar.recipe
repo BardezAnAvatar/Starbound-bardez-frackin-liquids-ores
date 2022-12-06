@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "liquid-quietus", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "quietusbar",
+    "count" : 1
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace3", "coalesce",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}

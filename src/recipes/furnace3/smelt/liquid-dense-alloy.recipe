@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "densealloy", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "liquid-dense-alloy",
+    "count" : 4
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace3", "smelt",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}

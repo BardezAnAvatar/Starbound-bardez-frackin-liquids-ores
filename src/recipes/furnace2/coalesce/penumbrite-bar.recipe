@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "liquid-penumbrite", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "penumbritebar",
+    "count" : 1
+  },
+  "duration" : 0.2,
+  "groups" : [
+    "craftingfurnace2", "coalesce",
+    "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
+  ]
+}
