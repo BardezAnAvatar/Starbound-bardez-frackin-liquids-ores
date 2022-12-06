@@ -59,28 +59,28 @@ This mod does the following:
   - [X] Liquid Aetherium Alloy
     - Yields densiumium ore, solarium star, Xithricite ore, liquidaether
 - [X] Adds conversion recipes to crafting station(s) for these liquids
-    - [X] Primitive Furnace
-      - [X] Liquid Telebrium
-    - [X] Industrioal Furnace
-      - [X] Liquid Advanced Alloy
-        - [X] Allows you to alloy from liquids or bars, too
-      - [X] Liquid Zerchesium
-      - [X] Liquid Penumbrite
-    - [X] Atomic Furnace
-      - [X] Liquid Trianglium
-      - [X] Liquid Quietus
-      - [X] Liquid Lasombrium
-      - [X] Liquid Tritanium
-        - [X] Allows you to alloy from liquids or bars, too
-      - [X] Liquid Dense Alloy
-        - [X] Allows you to alloy from liquids or bars, too
-    - [X] Fission Furnace
-      - [X] Liquid Effigium
-      - [X] Liquid Densinium
-      - [X] Liquid Pyreite
-      - [X] Liquid Isogen
-      - [X] Liquid Aetherium Alloy
-        - [X] Allows you to alloy from liquids or bars, too
+  - [X] Primitive Furnace
+    - [X] Liquid Telebrium
+  - [X] Industrioal Furnace
+    - [X] Liquid Advanced Alloy
+      - [X] Allows you to alloy from liquids or bars, too
+    - [X] Liquid Zerchesium
+    - [X] Liquid Penumbrite
+  - [X] Atomic Furnace
+    - [X] Liquid Trianglium
+    - [X] Liquid Quietus
+    - [X] Liquid Lasombrium
+    - [X] Liquid Tritanium
+      - [X] Allows you to alloy from liquids or bars, too
+    - [X] Liquid Dense Alloy
+      - [X] Allows you to alloy from liquids or bars, too
+  - [X] Fission Furnace
+    - [X] Liquid Effigium
+    - [X] Liquid Densinium
+    - [X] Liquid Pyreite
+    - [X] Liquid Isogen
+    - [X] Liquid Aetherium Alloy
+      - [X] Allows you to alloy from liquids or bars, too
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
     - [ ] Tier 2
