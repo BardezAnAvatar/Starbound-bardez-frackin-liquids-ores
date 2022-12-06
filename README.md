@@ -61,7 +61,7 @@ This mod does the following:
     - [ ] Industrioal Furnace
       - [X] Liquid Advanced Alloy
         - [X] Allows you to alloy from liquids or bars, too
-      - [ ] Liquid Zerchesium
+      - [X] Liquid Zerchesium
       - [ ] Liquid Penumbrite
     - [ ] Tier 4
       - [ ] Liquid Trianglium
