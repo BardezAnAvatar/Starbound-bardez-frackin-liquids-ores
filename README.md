@@ -102,8 +102,6 @@ This mod does the following:
       - [ ] Liquid Pyreite
       - [ ] Liquid Isogen
     - [ ] Tier 8
-      - [ ] Liquid Aetherium Alloy
-- [ ] Adds liquid mixing reactions
-  - [ ] TODO: what reactions do I want to add?
-- [ ] Things I am considering:
-  - [ ] Liquid Tritanium
+          - [ ] Liquid Aetherium Alloy
+    - [ ] Adds liquid mixing reactions
+      - [ ] TODO: what reactions do I want to add?
