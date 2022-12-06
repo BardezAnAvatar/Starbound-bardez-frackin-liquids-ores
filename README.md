@@ -17,13 +17,13 @@ This mod does the following:
     | Liquid Trianglium      | 4     | 120       |
     | Liquid Quietus         | 4     | 121       |
     | Liquid Lasombrium      | 4     | 122       |
-    | Liquid Tritanium       | 4     | X         |
-    | Liquid Effigium        | 5     | 123       |
-    | Liquid Dense Alloy     | 5     | 124       |
-    | Liquid Densinium       | 6     | 125       |
-    | Liquid Pyreite         | 6     | 126       |
-    | Liquid Isogen          | 6     | 127       |
-    | Liquid Aetherium Alloy | 8     | 129       |
+    | Liquid Tritanium       | 4     | 123       |
+    | Liquid Effigium        | 5     | 124       |
+    | Liquid Dense Alloy     | 5     | 125       |
+    | Liquid Densinium       | 6     | 126       |
+    | Liquid Pyreite         | 6     | 127       |
+    | Liquid Isogen          | 6     | 129       |
+    | Liquid Aetherium Alloy | 8     | 132       |
 
   - Things Not Done
     - Cinnabar (simply yields mercury, already an FU liquid)
