@@ -71,7 +71,7 @@ This mod does the following:
     - [ ] Fission Furnace
       - [X] Liquid Effigium
       - [X] Liquid Densinium
-      - [ ] Liquid Pyreite
+      - [X] Liquid Pyreite
       - [ ] Liquid Isogen
       - [ ] Liquid Aetherium Alloy
 - [ ] Adds research recipes to the research system for these liquids
