@@ -3,7 +3,7 @@
     { "item" : "liquid-dense-alloy", "count" : 4 }
   ],
   "output" : {
-    "item" : "denseealloy",
+    "item" : "densealloy",
     "count" : 1
   },
   "duration" : 0.2,
