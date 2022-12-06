@@ -70,14 +70,17 @@ This mod does the following:
       - [X] Liquid Trianglium
       - [X] Liquid Quietus
       - [X] Liquid Lasombrium
-      - [ ] Liquid Tritanium
+      - [X] Liquid Tritanium
+        - [X] Allows you to alloy from liquids or bars, too
       - [X] Liquid Dense Alloy
+        - [X] Allows you to alloy from liquids or bars, too
     - [X] Fission Furnace
       - [X] Liquid Effigium
       - [X] Liquid Densinium
       - [X] Liquid Pyreite
       - [X] Liquid Isogen
       - [X] Liquid Aetherium Alloy
+        - [X] Allows you to alloy from liquids or bars, too
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Bars
     - [ ] Tier 2
