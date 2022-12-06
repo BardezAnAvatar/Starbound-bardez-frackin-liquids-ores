@@ -66,7 +66,7 @@ This mod does the following:
     - [ ] Atomic Furnace
       - [X] Liquid Trianglium
       - [X] Liquid Quietus
-      - [ ] Liquid Lasombrium
+      - [X] Liquid Lasombrium
     - [ ] Tier 5
       - [ ] Liquid Effigium
       - [ ] Liquid Dense Alloy
