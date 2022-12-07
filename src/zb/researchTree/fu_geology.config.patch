@@ -20,7 +20,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_telebrium",
-    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point.\n\nTelebrium finds its use in the electronics centers of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset;." ]
+    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point of 1782 K (1509 C) under standard pressure.\n\nTelebrium finds its use in the electronics area of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset;." ]
   },
   //acronyms
   {
