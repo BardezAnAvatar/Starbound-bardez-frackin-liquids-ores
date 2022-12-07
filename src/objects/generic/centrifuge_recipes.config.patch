@@ -133,7 +133,7 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-isogen",
     "value" : {
-      "iceblock": ["rare", 1],
+      "ice": ["rare", 1],
       "fu_oxygen": ["uncommon", 2],
       "isogenore": ["common", 2]
     }
