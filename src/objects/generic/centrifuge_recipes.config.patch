@@ -123,8 +123,8 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-pyreite",
     "value" : {
+      "liquidlava": ["rare", 3],
       "fu_oxygen": ["rare", 1],
-      "lava": ["rare", 3],
       "phosphorus": ["uncommon", 1],
       "pyreiteore": ["common", 2]
     }
