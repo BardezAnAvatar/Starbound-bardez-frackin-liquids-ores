@@ -48,7 +48,7 @@
     "value" : {
       "chromadirtmaterial": ["rare", 1],
       "triangliumore": ["uncommon", 1],
-      "pixel": ["normal", 1]
+      "money": ["common", 1]
     }
   },
   {
