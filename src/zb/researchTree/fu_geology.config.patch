@@ -177,7 +177,7 @@
       "icon" : "/items/liquids/molten-densinium.png",
       "children" : [ ],
       "position" : [410, 80],
-      "price" : [["fuscienceresource", 600], ["densiniumbar", 3]],
+      "price" : [["fuscienceresource", 6000], ["densiniumbar", 3]],
       "unlocks" : [ "molten-densinium" ]
     }
   },
@@ -194,7 +194,7 @@
       "icon" : "/items/liquids/molten-pyreite.png",
       "children" : [ ],
       "position" : [410, -80],
-      "price" : [["fuscienceresource", 600], ["pyreitebar", 3]],
+      "price" : [["fuscienceresource", 6000], ["pyreitebar", 3]],
       "unlocks" : [ "molten-pyreite" ]
     }
   },
@@ -211,7 +211,7 @@
       "icon" : "/items/liquids/molten-isogen.png",
       "children" : [ ],
       "position" : [470, -80],
-      "price" : [["fuscienceresource", 600], ["isogenbar", 3]],
+      "price" : [["fuscienceresource", 6000], ["isogenbar", 3]],
       "unlocks" : [ "molten-isogen" ]
     }
   },
@@ -219,6 +219,23 @@
     "op" : "replace",
     "path" : "/researchTree/fu_geology/metals_isogen/children",
     "value" : [ "liquid_isogen" ]
+  },
+  //liquid Aetherium alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_aetherium_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-isogen.png",
+      "children" : [ ],
+      "position" :[530, 40],
+      "price" : [["fuscienceresource", 10000], ["aetheriumalloy", 3]],
+      "unlocks" : [ "molten-aetherium-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_tier8/children",
+    "value" : [ "liquid_aetherium_alloy" ]
   },
   //strings
   {
@@ -286,6 +303,11 @@
     "path" : "/strings/research/liquid_isogen",
     "value" : [ "Molten Isogen", "^orange;Tier 6^reset;\n\n^cyan;Isogen^reset;, heated to its melting point of 8264 K (7991 C) under standard pressure.\n\nThis metal is a compound of aluminium (^gray;Al^reset;) that seems to not only absorb, but to also act as a quantum sink for heat energy. Requires a vast amount of energy to overcome the heat sink quality and liquify the compound.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_aetherium_alloy",
+    "value" : [ "Molten Aetherium Alloy", "^orange;Tier 8^reset;\n\n^cyan;Aetherium Alloy^reset;, heated to its melting point of 9001 K (8727 C) under standard pressure.\n\nThis metal is an alloy of the toughest and strongest substances known to the universe.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -351,5 +373,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ13",
     "value" : "liquid_isogen"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ14",
+    "value" : "liquid_aetherium_alloy"
   }
 ]

@@ -100,7 +100,7 @@ This mod does the following:
     - [X] Liquid Densinium
     - [X] Liquid Pyreite
     - [X] Liquid Isogen
-  - [ ] Tier 8
-    - [ ] Liquid Aetherium Alloy
+  - [X] Tier 8
+    - [X] Liquid Aetherium Alloy
   - [ ] Adds liquid mixing reactions
     - [ ] TODO: what reactions do I want to add?
