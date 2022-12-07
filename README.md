@@ -81,7 +81,7 @@ This mod does the following:
     - [X] Liquid Isogen
     - [X] Liquid Aetherium Alloy
       - [X] Allows you to alloy from liquids or bars, too
-- [ ] Adds research recipes to the research system for these liquids
+- [X] Adds research recipes to the research system for these liquids
   - [X] Tier 2
     - [X] Liquid Telebrium
   - [X] Tier 3
@@ -104,3 +104,4 @@ This mod does the following:
     - [X] Liquid Aetherium Alloy
   - [ ] Adds liquid mixing reactions
     - [ ] TODO: what reactions do I want to add?
+      - Pyreite and Isogen -> lead
