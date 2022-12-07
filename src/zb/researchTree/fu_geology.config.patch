@@ -50,6 +50,23 @@
     "path" : "/researchTree/fu_geology/metals_zerchesium/children",
     "value" : [ "liquid_zerchesium" ]
   },
+  //liquid Penumbrite
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_penumbrite",
+    "value" : {
+      "icon" : "/items/liquids/molten-penumbrite.png",
+      "children" : [ ],
+      "position" : [200, -80],
+      "price" : [["fuscienceresource", 3500], ["penumbriteshard", 3]],
+      "unlocks" : [ "molten-penumbrite" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_penumbrite/children",
+    "value" : [ "liquid_penumbrite" ]
+  },
   //strings
   {
     "op" : "add",
@@ -66,6 +83,11 @@
     "path" : "/strings/research/liquid_zerchesium",
     "value" : [ "Molten Zerchesium", "^orange;Tier 3.5^reset;\n\n^cyan;Zerchesium^reset;, heated to its melting point of 6019 K (5746 C) under standard pressure.\n\nHighly resistant to heat and warping under pressure, this metal is perfect as a heat shield.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_penumbrite",
+    "value" : [ "Molten Penumbrite", "^orange;Tier 3.5^reset;\n\n^cyan;Penumbrite^reset;, heated to its melting point of 1694 K (1421 C) under standard pressure.\n\nSuper-hard, this substance makes for the perfect armor against impacts.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -81,5 +103,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ3",
     "value" : "liquid_zerchesium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ4",
+    "value" : "liquid_penumbrite"
   }
 ]

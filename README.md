@@ -84,10 +84,10 @@ This mod does the following:
 - [ ] Adds research recipes to the research system for these liquids
   - [X] Tier 2
     - [X] Liquid Telebrium
-  - [ ] Tier 3
+  - [X] Tier 3
     - [X] Liquid Advanced Alloy
     - [X] Liquid Zerchesium
-    - [ ] Liquid Penumbrite
+    - [X] Liquid Penumbrite
   - [ ] Tier 4
     - [ ] Liquid Trianglium
     - [ ] Liquid Quietus
