@@ -82,26 +82,25 @@ This mod does the following:
     - [X] Liquid Aetherium Alloy
       - [X] Allows you to alloy from liquids or bars, too
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Bars
-    - [ ] Tier 2
-      - [ ] Liquid Telebrium
-    - [ ] Tier 3
-      - [ ] Liquid Advanced Alloy
-      - [ ] Liquid Zerchesium
-      - [ ] Liquid Penumbrite
-    - [ ] Tier 4
-      - [ ] Liquid Trianglium
-      - [ ] Liquid Quietus
-      - [ ] Liquid Lasombrium
-      - [ ] Liquid Tritanium
-    - [ ] Tier 5
-      - [ ] Liquid Effigium
-      - [ ] Liquid Dense Alloy
-    - [ ] Tier 6
-      - [ ] Liquid Densinium
-      - [ ] Liquid Pyreite
-      - [ ] Liquid Isogen
-    - [ ] Tier 8
-      - [ ] Liquid Aetherium Alloy
-    - [ ] Adds liquid mixing reactions
-      - [ ] TODO: what reactions do I want to add?
+  - [X] Tier 2
+    - [X] Liquid Telebrium
+  - [ ] Tier 3
+    - [ ] Liquid Advanced Alloy
+    - [ ] Liquid Zerchesium
+    - [ ] Liquid Penumbrite
+  - [ ] Tier 4
+    - [ ] Liquid Trianglium
+    - [ ] Liquid Quietus
+    - [ ] Liquid Lasombrium
+    - [ ] Liquid Tritanium
+  - [ ] Tier 5
+    - [ ] Liquid Effigium
+    - [ ] Liquid Dense Alloy
+  - [ ] Tier 6
+    - [ ] Liquid Densinium
+    - [ ] Liquid Pyreite
+    - [ ] Liquid Isogen
+  - [ ] Tier 8
+    - [ ] Liquid Aetherium Alloy
+  - [ ] Adds liquid mixing reactions
+    - [ ] TODO: what reactions do I want to add?
