@@ -177,7 +177,7 @@
       "icon" : "/items/liquids/molten-densinium.png",
       "children" : [ ],
       "position" : [410, 80],
-      "price" : [["fuscienceresource", 5500], ["densiniumbar", 3]],
+      "price" : [["fuscienceresource", 600], ["densiniumbar", 3]],
       "unlocks" : [ "molten-densinium" ]
     }
   },
@@ -194,7 +194,7 @@
       "icon" : "/items/liquids/molten-pyreite.png",
       "children" : [ ],
       "position" : [410, -80],
-      "price" : [["fuscienceresource", 5500], ["pyreitebar", 3]],
+      "price" : [["fuscienceresource", 600], ["pyreitebar", 3]],
       "unlocks" : [ "molten-pyreite" ]
     }
   },
@@ -202,6 +202,23 @@
     "op" : "replace",
     "path" : "/researchTree/fu_geology/metals_pyreite/children",
     "value" : [ "liquid_pyreite" ]
+  },
+  //liquid Isogen
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_isogen",
+    "value" : {
+      "icon" : "/items/liquids/molten-isogen.png",
+      "children" : [ ],
+      "position" : [470, -80],
+      "price" : [["fuscienceresource", 600], ["isogenbar", 3]],
+      "unlocks" : [ "molten-isogen" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_isogen/children",
+    "value" : [ "liquid_isogen" ]
   },
   //strings
   {
@@ -262,7 +279,12 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_pyreite",
-    "value" : [ "Molten Pyreite", "^orange;Tier 6^reset;\n\n^cyan;Pyreite^reset;, heated to its melting point of 6666 K (6393 C) under standard pressure.\n\nThis metal is a substance that fits depictions of \"hell\", appearing to combust itself in an endless cycle .\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+    "value" : [ "Molten Pyreite", "^orange;Tier 6^reset;\n\n^cyan;Pyreite^reset;, heated to its melting point of 6666 K (6393 C) under standard pressure.\n\nThis metal is a substance that fits depictions of \"hell\", appearing to combust itself in an endless cycle.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_isogen",
+    "value" : [ "Molten Isogen", "^orange;Tier 6^reset;\n\n^cyan;Isogen^reset;, heated to its melting point of 8264 K (7991 C) under standard pressure.\n\nThis metal is a compound of aluminium (^gray;Al^reset;) that seems to not only absorb, but to also act as a quantum sink for heat energy. Requires a vast amount of energy to overcome the heat sink quality and liquify the compound.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
   //acronyms
   {
@@ -324,5 +346,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ12",
     "value" : "liquid_pyreite"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ13",
+    "value" : "liquid_isogen"
   }
 ]

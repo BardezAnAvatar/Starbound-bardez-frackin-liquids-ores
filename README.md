@@ -96,10 +96,10 @@ This mod does the following:
   - [X] Tier 5
     - [X] Liquid Effigium
     - [X] Liquid Dense Alloy
-  - [ ] Tier 6
+  - [X] Tier 6
     - [X] Liquid Densinium
     - [X] Liquid Pyreite
-    - [ ] Liquid Isogen
+    - [X] Liquid Isogen
   - [ ] Tier 8
     - [ ] Liquid Aetherium Alloy
   - [ ] Adds liquid mixing reactions
