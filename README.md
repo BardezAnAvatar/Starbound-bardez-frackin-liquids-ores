@@ -94,7 +94,7 @@ This mod does the following:
     - [X] Liquid Lasombrium
     - [X] Liquid Tritanium
   - [ ] Tier 5
-    - [ ] Liquid Effigium
+    - [X] Liquid Effigium
     - [ ] Liquid Dense Alloy
   - [ ] Tier 6
     - [ ] Liquid Densinium

@@ -135,6 +135,23 @@
     "path" : "/researchTree/fu_geology/metals_alloy3/children",
     "value" : [ "liquid_tritanium" ]
   },
+  //liquid Effigium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_effigium",
+    "value" : {
+      "icon" : "/items/liquids/molten-effigium.png",
+      "children" : [ ],
+      "position" : [380, 80],
+      "price" : [["fuscienceresource", 5000], ["effigiumbar", 3]],
+      "unlocks" : [ "molten-effigium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_effigium/children",
+    "value" : [ "liquid_effigium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -176,6 +193,11 @@
     "path" : "/strings/research/liquid_tritanium",
     "value" : [ "Molten Tritanium", "^orange;Tier 4.5^reset;\n\n^cyan;Tritanium^reset; --an alloy of lead, prisilite, trianglium, and irradium-- heated to its melting point of 2163 K (1890 C) under standard pressure.\n\nThis alloy appears greenish-gray, but shimmers with enchanting fractal patterns.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_effigium",
+    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nThis alloy is difficult to see as a solid, and dangerously transparent as a liquid, considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -216,5 +238,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ08",
     "value" : "liquid_tritanium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ09",
+    "value" : "liquid_effigium"
   }
 ]
