@@ -33,16 +33,38 @@
     "path" : "/researchTree/fu_geology/metals_alloy2/children",
     "value" : [ "liquid_advanced_alloy" ]
   },
+  //liquid zerchesium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_zerchesium",
+    "value" : {
+      "icon" : "/items/liquids/molten-zerchesium.png",
+      "children" : [ ],
+      "position" : [200, 80],
+      "price" : [["fuscienceresource", 3500], ["zerchesiumbar", 3]],
+      "unlocks" : [ "molten-zerchesium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_zerchesium/children",
+    "value" : [ "liquid_zerchesium" ]
+  },
   //strings
   {
     "op" : "add",
     "path" : "/strings/research/liquid_telebrium",
-    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point of 1782 K (1509 C) under standard pressure.\n\nTelebrium finds its use in the electronics area of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset;." ]
+    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point of 1782 K (1509 C) under standard pressure.\n\nTelebrium finds its use in the electronics area of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",
     "path" : "/strings/research/liquid_advanced_alloy",
-    "value" : [ "Molten Advanced Alloy", "^orange;Tier 3.5^reset;\n\n^cyan;Advanced Alloy^reset;, heated to its melting point of 1701 K (1428 C) under standard pressure.\n\nHighly resistant to impact, pressure, and metal fatigue.\n\nRequires an ^orange;Industrial Furnace^reset;." ]
+    "value" : [ "Molten Advanced Alloy", "^orange;Tier 3.5^reset;\n\n^cyan;Advanced Alloy^reset;, heated to its melting point of 1701 K (1428 C) under standard pressure.\n\nHighly resistant to impact, pressure, and metal fatigue.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_zerchesium",
+    "value" : [ "Molten Zerchesium", "^orange;Tier 3.5^reset;\n\n^cyan;Zerchesium^reset;, heated to its melting point of 6019 K (5746 C) under standard pressure.\n\nHighly resistant to heat and warping under pressure, this metal is perfect as a heat shield.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
   //acronyms
   {
@@ -54,5 +76,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ2",
     "value" : "liquid_advanced_alloy"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ3",
+    "value" : "liquid_zerchesium"
   }
 ]
