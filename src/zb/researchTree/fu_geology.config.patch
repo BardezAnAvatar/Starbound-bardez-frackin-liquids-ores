@@ -1,0 +1,31 @@
+[
+  //liquid telebrium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_telebrium",
+    "value" : {
+      "icon" : "/items/liquids/molten-telebrium.png",
+      "children" : [ ],
+      "position" : [110, -80],
+      "price" : [["fuscienceresource", 2500], ["moonbar", 3]],
+      "unlocks" : [ "molten-telebrium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_telebrium/children",
+    "value" : [ "liquid_telebrium" ]
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_telebrium",
+    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point.\n\nTelebrium finds its use in the electronics centers of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset;." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ1",
+    "value" : "liquid_telebrium"
+  }
+]
