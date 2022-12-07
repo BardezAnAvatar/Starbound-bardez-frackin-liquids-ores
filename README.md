@@ -98,7 +98,7 @@ This mod does the following:
     - [X] Liquid Dense Alloy
   - [ ] Tier 6
     - [X] Liquid Densinium
-    - [ ] Liquid Pyreite
+    - [X] Liquid Pyreite
     - [ ] Liquid Isogen
   - [ ] Tier 8
     - [ ] Liquid Aetherium Alloy

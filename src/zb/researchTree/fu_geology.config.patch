@@ -186,6 +186,23 @@
     "path" : "/researchTree/fu_geology/metals_densinium/children",
     "value" : [ "liquid_densinium" ]
   },
+  //liquid Pyreite
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_pyreite",
+    "value" : {
+      "icon" : "/items/liquids/molten-pyreite.png",
+      "children" : [ ],
+      "position" : [410, -80],
+      "price" : [["fuscienceresource", 5500], ["pyreitebar", 3]],
+      "unlocks" : [ "molten-pyreite" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_pyreite/children",
+    "value" : [ "liquid_pyreite" ]
+  },
   //strings
   {
     "op" : "add",
@@ -242,6 +259,11 @@
     "path" : "/strings/research/liquid_densinium",
     "value" : [ "Molten Densinium", "^orange;Tier 6^reset;\n\n^cyan;Densinium^reset; (a form of Osmium, ^gray;Os^reset;), heated to its melting point of 3306 K (3033 C) under standard pressure.\n\nThis alloy is very dense, (un)naturally black, and highly resistant to stresses from pressure and chemical erosion.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_pyreite",
+    "value" : [ "Molten Pyreite", "^orange;Tier 6^reset;\n\n^cyan;Pyreite^reset;, heated to its melting point of 6666 K (6393 C) under standard pressure.\n\nThis metal is a substance that fits depictions of \"hell\", appearing to combust itself in an endless cycle .\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -297,5 +319,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ11",
     "value" : "liquid_densinium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ12",
+    "value" : "liquid_pyreite"
   }
 ]
