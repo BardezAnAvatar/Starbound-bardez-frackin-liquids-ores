@@ -10,7 +10,7 @@
       "helium3gasliquid": ["rarest", 4],
       "moonrock": ["rare", 1],
       "moondust": ["uncommon", 1],
-      "moonore": ["common", 1]
+      "moonstoneore": ["common", 2]
     }
   },
   {
@@ -19,7 +19,7 @@
     "value" : {
       "fu_carbondioxide": ["rare", 1],
       "sand": ["uncommon", 1],
-      "zerchesiumore": ["common", 1]
+      "zerchesiumore": ["common", 2]
     }
   },
   {
@@ -28,7 +28,7 @@
     "value" : {
       "fu_hydrogen": ["rare", 1],
       "sand2": ["uncommon", 1],
-      "penumbriteore": ["common", 1]
+      "penumbriteore": ["common", 2]
     }
   },
   {
@@ -85,7 +85,7 @@
       "aegisaltore": ["uncommon", 2],
       "feroziumore": ["uncommon", 2],
       "violiumore": ["uncommon", 2],
-      "lead": ["common", 1]
+      "lead": ["common", 2]
     }
   },
   {
@@ -94,7 +94,7 @@
     "value" : {
       "ff_silicon": ["rare", 1],
       "densiniumore": ["uncommon", 2],
-      "lead": ["common", 1]
+      "lead": ["common", 2]
     }
   },
   {
