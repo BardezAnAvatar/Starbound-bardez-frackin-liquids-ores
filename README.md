@@ -85,7 +85,7 @@ This mod does the following:
   - [X] Tier 2
     - [X] Liquid Telebrium
   - [ ] Tier 3
-    - [ ] Liquid Advanced Alloy
+    - [X] Liquid Advanced Alloy
     - [ ] Liquid Zerchesium
     - [ ] Liquid Penumbrite
   - [ ] Tier 4

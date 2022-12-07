@@ -16,16 +16,43 @@
     "path" : "/researchTree/fu_geology/metals_telebrium/children",
     "value" : [ "liquid_telebrium" ]
   },
+  //liquid advanced alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_advanced_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-advanced-alloy.png",
+      "children" : [ ],
+				"position" : [170, 130],
+      "price" : [["fuscienceresource", 3500], ["advancealloy", 3]],
+      "unlocks" : [ "molten-advanced-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy2/children",
+    "value" : [ "liquid_advanced_alloy" ]
+  },
   //strings
   {
     "op" : "add",
     "path" : "/strings/research/liquid_telebrium",
     "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point of 1782 K (1509 C) under standard pressure.\n\nTelebrium finds its use in the electronics area of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset;." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_advanced_alloy",
+    "value" : [ "Molten Advanced Alloy", "^orange;Tier 3.5^reset;\n\n^cyan;Advanced Alloy^reset;, heated to its melting point of 1701 K (1428 C) under standard pressure.\n\nHighly resistant to impact, pressure, and metal fatigue.\n\nRequires an ^orange;Industrial Furnace^reset;." ]
+  },
   //acronyms
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ1",
     "value" : "liquid_telebrium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ2",
+    "value" : "liquid_advanced_alloy"
   }
 ]
