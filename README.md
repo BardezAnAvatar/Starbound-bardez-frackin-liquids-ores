@@ -97,7 +97,7 @@ This mod does the following:
     - [X] Liquid Effigium
     - [X] Liquid Dense Alloy
   - [ ] Tier 6
-    - [ ] Liquid Densinium
+    - [X] Liquid Densinium
     - [ ] Liquid Pyreite
     - [ ] Liquid Isogen
   - [ ] Tier 8

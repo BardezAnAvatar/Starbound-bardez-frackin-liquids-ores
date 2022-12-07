@@ -169,6 +169,23 @@
     "path" : "/researchTree/fu_geology/metals_alloy4/children",
     "value" : [ "liquid_dense_alloy" ]
   },
+  //liquid Densinium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_densinium",
+    "value" : {
+      "icon" : "/items/liquids/molten-densinium.png",
+      "children" : [ ],
+      "position" : [410, 80],
+      "price" : [["fuscienceresource", 5500], ["densiniumbar", 3]],
+      "unlocks" : [ "molten-densinium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_densinium/children",
+    "value" : [ "liquid_densinium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -220,6 +237,11 @@
     "path" : "/strings/research/liquid_dense_alloy",
     "value" : [ "Molten Dense Alloy", "^orange;Tier 5.5^reset;\n\n^cyan;Dense Alloy^reset; --an alloy of aegisalt, ferozium, violium, and lead-- heated to its melting point of 2951 K (2678 C) under standard pressure.\n\nThis alloy is very dense, enough so that it often slowly expels materials placed within it due to density.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_densinium",
+    "value" : [ "Molten Densinium", "^orange;Tier 6^reset;\n\n^cyan;Densinium^reset; (a form of Osmium, ^gray;Os^reset;), heated to its melting point of 3306 K (3033 C) under standard pressure.\n\nThis alloy is very dense, (un)naturally black, and highly resistant to stresses from pressure and chemical erosion.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -270,5 +292,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ10",
     "value" : "liquid_dense_alloy"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ11",
+    "value" : "liquid_densinium"
   }
 ]
