@@ -4,7 +4,7 @@
   "category" : "liquid",
   "inventoryIcon" : "molten-lasombrium.png",
   "shortdescription" : "Liquid Lasombrium",
-  "description" : "A measure of molten lasombrium. Feels...wrong, somehow.\n^yellow;Centrifugable^reset;.",
+  "description" : "A measure of molten lasombrium. Feels... wrong, somehow.\n^yellow;Centrifugable^reset;.",
   "liquid" : "liquid-lasombrium",
   "price": 50
 }
