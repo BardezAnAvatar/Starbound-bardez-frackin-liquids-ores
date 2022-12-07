@@ -281,7 +281,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_effigium",
-    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nThis material is difficult to see as a solid, and dangerously transparent as a liquid, considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nWhile this material is difficult to see as a solid, it becomes dangerously transparent as a liquid--considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",
