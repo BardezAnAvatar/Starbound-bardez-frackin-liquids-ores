@@ -84,6 +84,23 @@
     "path" : "/researchTree/fu_geology/metals_trianglium/children",
     "value" : [ "liquid_trianglium" ]
   },
+  //liquid Quietus
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_quietus",
+    "value" : {
+      "icon" : "/items/liquids/molten-quietus.png",
+      "children" : [ ],
+      "position" : [230, -80],
+      "price" : [["fuscienceresource", 4000], ["quietusbar", 3]],
+      "unlocks" : [ "molten-quietus" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_quietus/children",
+    "value" : [ "liquid_quietus" ]
+  },
   //strings
   {
     "op" : "add",
@@ -110,6 +127,11 @@
     "path" : "/strings/research/liquid_trianglium",
     "value" : [ "Molten Trianglium", "^orange;Tier 4^reset;\n\n^cyan;Trianglium^reset;, heated to its melting point of 3333 K (3060 C) under standard pressure.\n\nThis substance's crystalline lattice causes it to naturally lend itself to triangular surface faces. Refraction causes it to appear triangluar even in its liquid state.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_quietus",
+    "value" : [ "Molten Quietus", "^orange;Tier 4^reset;\n\n^cyan;Quietus^reset;, heated to its melting point of 889 K (616 C) under standard pressure.\n\nThis substance's liquid bubbling has the illusion of muscular movement, and its oxidization reaction sounds like human whimpers.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -135,5 +157,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ5",
     "value" : "liquid_trianglium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ6",
+    "value" : "liquid_quietus"
   }
 ]
