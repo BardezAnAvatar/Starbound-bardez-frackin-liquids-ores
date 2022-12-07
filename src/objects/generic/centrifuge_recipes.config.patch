@@ -118,7 +118,7 @@
   },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-advanced-alloy",
+    "path" : "/itemMapLiquids/molten-aetherium-alloy",
     "value" : {
       "liquidaether": ["rare", 2],
       "fu_hydrogen": ["uncommon", 2],
