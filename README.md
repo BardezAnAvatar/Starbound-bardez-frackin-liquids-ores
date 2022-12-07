@@ -88,11 +88,11 @@ This mod does the following:
     - [X] Liquid Advanced Alloy
     - [X] Liquid Zerchesium
     - [X] Liquid Penumbrite
-  - [ ] Tier 4
+  - [X] Tier 4
     - [X] Liquid Trianglium
     - [X] Liquid Quietus
     - [X] Liquid Lasombrium
-    - [ ] Liquid Tritanium
+    - [X] Liquid Tritanium
   - [ ] Tier 5
     - [ ] Liquid Effigium
     - [ ] Liquid Dense Alloy

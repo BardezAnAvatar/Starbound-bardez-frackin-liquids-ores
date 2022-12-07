@@ -118,6 +118,23 @@
     "path" : "/researchTree/fu_geology/metals_lasombrium/children",
     "value" : [ "liquid_lasombrium" ]
   },
+  //liquid Tritanium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_tritanium",
+    "value" : {
+      "icon" : "/items/liquids/molten-tritanium.png",
+      "children" : [ ],
+      "position" : [260, 130],
+      "price" : [["fuscienceresource", 4000], ["tritaniumbar", 3]],
+      "unlocks" : [ "molten-tritanium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy3/children",
+    "value" : [ "liquid_tritanium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -154,6 +171,11 @@
     "path" : "/strings/research/liquid_lasombrium",
     "value" : [ "Molten Lasombrium", "^orange;Tier 4^reset;\n\n^cyan;Lasombrium^reset;, heated to its melting point of 939 K (666 C) under standard pressure.\n\nThis substance's nature appears to be otherworldy, with tests showing higher levels of entropy when this substance is involved. Causes alloys and solutions to radically change properties.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_tritanium",
+    "value" : [ "Molten Tritanium", "^orange;Tier 4.5^reset;\n\n^cyan;Tritanium^reset; --an alloy of lead, prisilite, trianglium, and irradium-- heated to its melting point of 2163 K (1890 C) under standard pressure.\n\nThis alloy appears greenish-gray, but shimmers with enchanting fractal patterns.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -189,5 +211,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ07",
     "value" : "liquid_lasombrium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ08",
+    "value" : "liquid_tritanium"
   }
 ]
