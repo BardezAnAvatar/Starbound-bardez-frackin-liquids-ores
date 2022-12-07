@@ -1,0 +1,382 @@
+[
+  //liquid telebrium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_telebrium",
+    "value" : {
+      "icon" : "/items/liquids/molten-telebrium.png",
+      "children" : [ ],
+      "position" : [110, -80],
+      "price" : [["fuscienceresource", 2500], ["moonbar", 3]],
+      "unlocks" : [ "molten-telebrium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_telebrium/children",
+    "value" : [ "liquid_telebrium" ]
+  },
+  //liquid advanced alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_advanced_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-advanced-alloy.png",
+      "children" : [ ],
+				"position" : [170, 130],
+      "price" : [["fuscienceresource", 3500], ["advancealloy", 3]],
+      "unlocks" : [ "molten-advanced-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy2/children",
+    "value" : [ "liquid_advanced_alloy" ]
+  },
+  //liquid zerchesium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_zerchesium",
+    "value" : {
+      "icon" : "/items/liquids/molten-zerchesium.png",
+      "children" : [ ],
+      "position" : [200, 80],
+      "price" : [["fuscienceresource", 3500], ["zerchesiumbar", 3]],
+      "unlocks" : [ "molten-zerchesium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_zerchesium/children",
+    "value" : [ "liquid_zerchesium" ]
+  },
+  //liquid Penumbrite
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_penumbrite",
+    "value" : {
+      "icon" : "/items/liquids/molten-penumbrite.png",
+      "children" : [ ],
+      "position" : [200, -80],
+      "price" : [["fuscienceresource", 3500], ["penumbriteshard", 3]],
+      "unlocks" : [ "molten-penumbrite" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_penumbrite/children",
+    "value" : [ "liquid_penumbrite" ]
+  },
+  //liquid Trianglium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_trianglium",
+    "value" : {
+      "icon" : "/items/liquids/molten-trianglium.png",
+      "children" : [ ],
+      "position" : [230, 80],
+      "price" : [["fuscienceresource", 4000], ["triangliumpyramid", 3]],
+      "unlocks" : [ "molten-trianglium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_trianglium/children",
+    "value" : [ "liquid_trianglium" ]
+  },
+  //liquid Quietus
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_quietus",
+    "value" : {
+      "icon" : "/items/liquids/molten-quietus.png",
+      "children" : [ ],
+      "position" : [230, -80],
+      "price" : [["fuscienceresource", 4000], ["quietusbar", 3]],
+      "unlocks" : [ "molten-quietus" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_quietus/children",
+    "value" : [ "liquid_quietus" ]
+  },
+  //liquid Lasombrium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_lasombrium",
+    "value" : {
+      "icon" : "/items/liquids/molten-lasombrium.png",
+      "children" : [ ],
+      "position" : [290, -80],
+      "price" : [["fuscienceresource", 4000], ["corruptionseed", 3]],
+      "unlocks" : [ "molten-lasombrium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_lasombrium/children",
+    "value" : [ "liquid_lasombrium" ]
+  },
+  //liquid Tritanium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_tritanium",
+    "value" : {
+      "icon" : "/items/liquids/molten-tritanium.png",
+      "children" : [ ],
+      "position" : [260, 130],
+      "price" : [["fuscienceresource", 4000], ["tritaniumbar", 3]],
+      "unlocks" : [ "molten-tritanium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy3/children",
+    "value" : [ "liquid_tritanium" ]
+  },
+  //liquid Effigium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_effigium",
+    "value" : {
+      "icon" : "/items/liquids/molten-effigium.png",
+      "children" : [ ],
+      "position" : [380, 80],
+      "price" : [["fuscienceresource", 5000], ["effigiumbar", 3]],
+      "unlocks" : [ "molten-effigium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_effigium/children",
+    "value" : [ "liquid_effigium" ]
+  },
+  //liquid Dense Alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_dense_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-effigium.png",
+      "children" : [ ],
+      "position" : [350, 130],
+      "price" : [["fuscienceresource", 5500], ["densealloy", 3]],
+      "unlocks" : [ "molten-dense-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy4/children",
+    "value" : [ "liquid_dense_alloy" ]
+  },
+  //liquid Densinium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_densinium",
+    "value" : {
+      "icon" : "/items/liquids/molten-densinium.png",
+      "children" : [ ],
+      "position" : [410, 80],
+      "price" : [["fuscienceresource", 6000], ["densiniumbar", 3]],
+      "unlocks" : [ "molten-densinium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_densinium/children",
+    "value" : [ "liquid_densinium" ]
+  },
+  //liquid Pyreite
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_pyreite",
+    "value" : {
+      "icon" : "/items/liquids/molten-pyreite.png",
+      "children" : [ ],
+      "position" : [410, -80],
+      "price" : [["fuscienceresource", 6000], ["pyreitebar", 3]],
+      "unlocks" : [ "molten-pyreite" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_pyreite/children",
+    "value" : [ "liquid_pyreite" ]
+  },
+  //liquid Isogen
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_isogen",
+    "value" : {
+      "icon" : "/items/liquids/molten-isogen.png",
+      "children" : [ ],
+      "position" : [470, -80],
+      "price" : [["fuscienceresource", 6000], ["isogenbar", 3]],
+      "unlocks" : [ "molten-isogen" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_isogen/children",
+    "value" : [ "liquid_isogen" ]
+  },
+  //liquid Aetherium alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_aetherium_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-isogen.png",
+      "children" : [ ],
+      "position" :[530, 40],
+      "price" : [["fuscienceresource", 10000], ["aetheriumalloy", 3]],
+      "unlocks" : [ "molten-aetherium-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_tier8/children",
+    "value" : [ "liquid_aetherium_alloy" ]
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_telebrium",
+    "value" : [ "Molten Telebrium", "^orange;Tier 2.5^reset;\n\n^cyan;Telebrium^reset;, heated to its melting point of 1782 K (1509 C) under standard pressure.\n\nTelebrium finds its use in the electronics area of materials, being an incredible conductor. Found on planetary bodies lacking atmosphere, it is presumed that oxidization interferes in the natural production of this substance.\n\nRequires a ^orange;Primitive Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_advanced_alloy",
+    "value" : [ "Molten Advanced Alloy", "^orange;Tier 3.5^reset;\n\n^cyan;Advanced Alloy^reset;, heated to its melting point of 1701 K (1428 C) under standard pressure.\n\nHighly resistant to impact, pressure, and metal fatigue.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_zerchesium",
+    "value" : [ "Molten Zerchesium", "^orange;Tier 3.5^reset;\n\n^cyan;Zerchesium^reset;, heated to its melting point of 6019 K (5746 C) under standard pressure.\n\nHighly resistant to heat and warping under pressure, this metal is perfect as a heat shield.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_penumbrite",
+    "value" : [ "Molten Penumbrite", "^orange;Tier 3.5^reset;\n\n^cyan;Penumbrite^reset;, heated to its melting point of 1694 K (1421 C) under standard pressure.\n\nSuper-hard, this substance makes for the perfect armor against impacts.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_trianglium",
+    "value" : [ "Molten Trianglium", "^orange;Tier 4^reset;\n\n^cyan;Trianglium^reset;, heated to its melting point of 3333 K (3060 C) under standard pressure.\n\nThis substance's crystalline lattice causes it to naturally lend itself to triangular surface faces. Refraction causes it to appear triangluar even in its liquid state.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_quietus",
+    "value" : [ "Molten Quietus", "^orange;Tier 4^reset;\n\n^cyan;Quietus^reset;, heated to its melting point of 889 K (616 C) under standard pressure.\n\nThis substance's liquid bubbling has the illusion of muscular movement, and its oxidization reaction sounds like human whimpers.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_lasombrium",
+    "value" : [ "Molten Lasombrium", "^orange;Tier 4^reset;\n\n^cyan;Lasombrium^reset;, heated to its melting point of 939 K (666 C) under standard pressure.\n\nThis substance's nature appears to be otherworldy, with tests showing higher levels of entropy when this substance is involved. Causes alloys and solutions to radically change properties.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_tritanium",
+    "value" : [ "Molten Tritanium", "^orange;Tier 4.5^reset;\n\n^cyan;Tritanium^reset; --an alloy of lead, prisilite, trianglium, and irradium-- heated to its melting point of 2163 K (1890 C) under standard pressure.\n\nThis alloy appears greenish-gray, but shimmers with enchanting fractal patterns.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_effigium",
+    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nThis material is difficult to see as a solid, and dangerously transparent as a liquid, considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_dense_alloy",
+    "value" : [ "Molten Dense Alloy", "^orange;Tier 5.5^reset;\n\n^cyan;Dense Alloy^reset; --an alloy of aegisalt, ferozium, violium, and lead-- heated to its melting point of 2951 K (2678 C) under standard pressure.\n\nThis alloy is very dense, enough so that it often slowly expels materials placed within it due to density.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_densinium",
+    "value" : [ "Molten Densinium", "^orange;Tier 6^reset;\n\n^cyan;Densinium^reset; (a form of Osmium, ^gray;Os^reset;), heated to its melting point of 3306 K (3033 C) under standard pressure.\n\nThis alloy is very dense, (un)naturally black, and highly resistant to stresses from pressure and chemical erosion.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_pyreite",
+    "value" : [ "Molten Pyreite", "^orange;Tier 6^reset;\n\n^cyan;Pyreite^reset;, heated to its melting point of 6666 K (6393 C) under standard pressure.\n\nThis metal is a substance that fits depictions of \"hell\", appearing to combust itself in an endless cycle.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_isogen",
+    "value" : [ "Molten Isogen", "^orange;Tier 6^reset;\n\n^cyan;Isogen^reset;, heated to its melting point of 8264 K (7991 C) under standard pressure.\n\nThis metal is a compound of aluminium (^gray;Al^reset;) that seems to not only absorb, but to also act as a quantum sink for heat energy. Requires a vast amount of energy to overcome the heat sink quality and liquify the compound.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_aetherium_alloy",
+    "value" : [ "Molten Aetherium Alloy", "^orange;Tier 8^reset;\n\n^cyan;Aetherium Alloy^reset;, heated to its melting point of 9001 K (8727 C) under standard pressure.\n\nThis metal is an alloy of the toughest and strongest substances known to the universe.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ01",
+    "value" : "liquid_telebrium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ02",
+    "value" : "liquid_advanced_alloy"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ03",
+    "value" : "liquid_zerchesium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ04",
+    "value" : "liquid_penumbrite"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ05",
+    "value" : "liquid_trianglium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ06",
+    "value" : "liquid_quietus"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ07",
+    "value" : "liquid_lasombrium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ08",
+    "value" : "liquid_tritanium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ09",
+    "value" : "liquid_effigium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ10",
+    "value" : "liquid_dense_alloy"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ11",
+    "value" : "liquid_densinium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ12",
+    "value" : "liquid_pyreite"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ13",
+    "value" : "liquid_isogen"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ14",
+    "value" : "liquid_aetherium_alloy"
+  }
+]
