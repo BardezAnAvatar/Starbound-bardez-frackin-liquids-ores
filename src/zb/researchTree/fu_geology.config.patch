@@ -101,6 +101,23 @@
     "path" : "/researchTree/fu_geology/metals_quietus/children",
     "value" : [ "liquid_quietus" ]
   },
+  //liquid Lasombrium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_lasombrium",
+    "value" : {
+      "icon" : "/items/liquids/molten-lasombrium.png",
+      "children" : [ ],
+      "position" : [290, -80],
+      "price" : [["fuscienceresource", 4000], ["corruptionseed", 3]],
+      "unlocks" : [ "molten-lasombrium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_lasombrium/children",
+    "value" : [ "liquid_lasombrium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -132,35 +149,45 @@
     "path" : "/strings/research/liquid_quietus",
     "value" : [ "Molten Quietus", "^orange;Tier 4^reset;\n\n^cyan;Quietus^reset;, heated to its melting point of 889 K (616 C) under standard pressure.\n\nThis substance's liquid bubbling has the illusion of muscular movement, and its oxidization reaction sounds like human whimpers.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_lasombrium",
+    "value" : [ "Molten Lasombrium", "^orange;Tier 4^reset;\n\n^cyan;Lasombrium^reset;, heated to its melting point of 939 K (666 C) under standard pressure.\n\nThis substance's nature appears to be otherworldy, with tests showing higher levels of entropy when this substance is involved. Causes alloys and solutions to radically change properties.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ1",
+    "path" : "/acronyms/fu_geology/FRAORELIQ01",
     "value" : "liquid_telebrium"
   },
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ2",
+    "path" : "/acronyms/fu_geology/FRAORELIQ02",
     "value" : "liquid_advanced_alloy"
   },
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ3",
+    "path" : "/acronyms/fu_geology/FRAORELIQ03",
     "value" : "liquid_zerchesium"
   },
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ4",
+    "path" : "/acronyms/fu_geology/FRAORELIQ04",
     "value" : "liquid_penumbrite"
   },
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ5",
+    "path" : "/acronyms/fu_geology/FRAORELIQ05",
     "value" : "liquid_trianglium"
   },
   {
     "op" : "add",
-    "path" : "/acronyms/fu_geology/FRAORELIQ6",
+    "path" : "/acronyms/fu_geology/FRAORELIQ06",
     "value" : "liquid_quietus"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ07",
+    "value" : "liquid_lasombrium"
   }
 ]

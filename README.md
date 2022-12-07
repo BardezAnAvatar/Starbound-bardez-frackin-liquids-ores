@@ -91,7 +91,7 @@ This mod does the following:
   - [ ] Tier 4
     - [X] Liquid Trianglium
     - [X] Liquid Quietus
-    - [ ] Liquid Lasombrium
+    - [X] Liquid Lasombrium
     - [ ] Liquid Tritanium
   - [ ] Tier 5
     - [ ] Liquid Effigium
