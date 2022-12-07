@@ -152,6 +152,23 @@
     "path" : "/researchTree/fu_geology/metals_effigium/children",
     "value" : [ "liquid_effigium" ]
   },
+  //liquid Dense Alloy
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_dense_alloy",
+    "value" : {
+      "icon" : "/items/liquids/molten-effigium.png",
+      "children" : [ ],
+      "position" : [350, 130],
+      "price" : [["fuscienceresource", 5500], ["densealloy", 3]],
+      "unlocks" : [ "molten-dense-alloy" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_alloy4/children",
+    "value" : [ "liquid_dense_alloy" ]
+  },
   //strings
   {
     "op" : "add",
@@ -196,7 +213,12 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_effigium",
-    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nThis alloy is difficult to see as a solid, and dangerously transparent as a liquid, considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+    "value" : [ "Molten Effigium", "^orange;Tier 5^reset;\n\n^cyan;Effigium^reset;, heated to its melting point of 3720 K (3447 C) under standard pressure.\n\nThis material is difficult to see as a solid, and dangerously transparent as a liquid, considering its molten temperature.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_dense_alloy",
+    "value" : [ "Molten Dense Alloy", "^orange;Tier 5.5^reset;\n\n^cyan;Dense Alloy^reset; --an alloy of aegisalt, ferozium, violium, and lead-- heated to its melting point of 2951 K (2678 C) under standard pressure.\n\nThis alloy is very dense, enough so that it often slowly expels materials placed within it due to density.\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
   //acronyms
   {
@@ -243,5 +265,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ09",
     "value" : "liquid_effigium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ10",
+    "value" : "liquid_dense_alloy"
   }
 ]
