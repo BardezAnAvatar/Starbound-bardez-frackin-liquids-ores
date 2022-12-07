@@ -67,6 +67,23 @@
     "path" : "/researchTree/fu_geology/metals_penumbrite/children",
     "value" : [ "liquid_penumbrite" ]
   },
+  //liquid Trianglium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_trianglium",
+    "value" : {
+      "icon" : "/items/liquids/molten-trianglium.png",
+      "children" : [ ],
+      "position" : [230, 80],
+      "price" : [["fuscienceresource", 4000], ["triangliumpyramid", 3]],
+      "unlocks" : [ "molten-trianglium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/metals_trianglium/children",
+    "value" : [ "liquid_trianglium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -88,6 +105,11 @@
     "path" : "/strings/research/liquid_penumbrite",
     "value" : [ "Molten Penumbrite", "^orange;Tier 3.5^reset;\n\n^cyan;Penumbrite^reset;, heated to its melting point of 1694 K (1421 C) under standard pressure.\n\nSuper-hard, this substance makes for the perfect armor against impacts.\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_trianglium",
+    "value" : [ "Molten Trianglium", "^orange;Tier 4^reset;\n\n^cyan;Trianglium^reset;, heated to its melting point of 3333 K (3060 C) under standard pressure.\n\nThis substance's crystalline lattice causes it to naturally lend itself to triangular surface faces. Refraction causes it to appear triangluar even in its liquid state.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -108,5 +130,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRAORELIQ4",
     "value" : "liquid_penumbrite"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRAORELIQ5",
+    "value" : "liquid_trianglium"
   }
 ]

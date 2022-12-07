@@ -89,7 +89,7 @@ This mod does the following:
     - [X] Liquid Zerchesium
     - [X] Liquid Penumbrite
   - [ ] Tier 4
-    - [ ] Liquid Trianglium
+    - [X] Liquid Trianglium
     - [ ] Liquid Quietus
     - [ ] Liquid Lasombrium
     - [ ] Liquid Tritanium
