@@ -102,3 +102,5 @@ This mod does the following:
     - [X] Liquid Isogen
   - [X] Tier 8
     - [X] Liquid Aetherium Alloy
+- Things I am considering
+  - Liquid Precursor Alloy
