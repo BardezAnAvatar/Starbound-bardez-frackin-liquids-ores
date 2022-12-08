@@ -3,6 +3,16 @@
   Note: Centrifuges only ever spawn 1 item per input. The second index after the commonality is not a spawn count, but instead
   the divisor of the occurrance. i.e.: makes it even rarer than it already is. See: /objects/bees/centrifuge.lua, method `update(dt)`
   */
+  /*
+  Example rates from gas centrifuge:
+      "itemChances": {
+        "rarest": 0.012,
+        "rare": 0.032,
+        "uncommon": 0.09,
+        "normal": 0.22,
+        "common": 0.32
+      },
+  */
   {
     "op" : "add",
     "path" : "/itemMapLiquids/molten-telebrium",
@@ -10,7 +20,7 @@
       "helium3gasliquid": ["rarest", 4],
       "moonrock": ["rare", 1],
       "moondust": ["uncommon", 1],
-      "moonore": ["common", 1]
+      "moonstoneore": ["common", 2]
     }
   },
   {
@@ -19,7 +29,7 @@
     "value" : {
       "fu_carbondioxide": ["rare", 1],
       "sand": ["uncommon", 1],
-      "zerchesiumore": ["common", 1]
+      "zerchesiumore": ["common", 2]
     }
   },
   {
@@ -28,7 +38,7 @@
     "value" : {
       "fu_hydrogen": ["rare", 1],
       "sand2": ["uncommon", 1],
-      "penumbriteore": ["common", 1]
+      "penumbriteore": ["common", 2]
     }
   },
   {
@@ -48,7 +58,7 @@
     "value" : {
       "chromadirtmaterial": ["rare", 1],
       "triangliumore": ["uncommon", 1],
-      "pixel": ["normal", 1]
+      "money": ["common", 1]
     }
   },
   {
@@ -71,10 +81,22 @@
   },
   {
     "op" : "add",
+    "path" : "/itemMapLiquids/molten-tritanium",
+    "value" : {
+      "liquidaether": ["rare", 5],
+      "triangliumore": ["uncommon", 1],
+      "irradiumore": ["uncommon", 2],
+      "prisiliteore": ["uncommon", 2],
+      "lead": ["uncommon", 1],
+      "fu_nitrogen": ["common", 1]
+    }
+  },
+  {
+    "op" : "add",
     "path" : "/itemMapLiquids/molten-effigium",
     "value" : {
-      "ff_silicon": ["uncommon", 3],
       "silverore": ["rare", 1],
+      "ff_silicon": ["uncommon", 3],
       "effigiumore": ["uncommon", 1]
     }
   },
@@ -85,7 +107,7 @@
       "aegisaltore": ["uncommon", 2],
       "feroziumore": ["uncommon", 2],
       "violiumore": ["uncommon", 2],
-      "lead": ["common", 1]
+      "lead": ["common", 2]
     }
   },
   {
@@ -94,15 +116,15 @@
     "value" : {
       "ff_silicon": ["rare", 1],
       "densiniumore": ["uncommon", 2],
-      "lead": ["common", 1]
+      "lead": ["common", 2]
     }
   },
   {
     "op" : "add",
     "path" : "/itemMapLiquids/molten-pyreite",
     "value" : {
+      "liquidlava": ["rare", 3],
       "fu_oxygen": ["rare", 1],
-      "lava": ["rare", 3],
       "phosphorus": ["uncommon", 1],
       "pyreiteore": ["common", 2]
     }
@@ -111,32 +133,20 @@
     "op" : "add",
     "path" : "/itemMapLiquids/molten-isogen",
     "value" : {
-      "iceblock": ["rare", 1],
+      "ice": ["rare", 1],
       "fu_oxygen": ["uncommon", 2],
       "isogenore": ["common", 2]
     }
   },
   {
     "op" : "add",
-    "path" : "/itemMapLiquids/molten-advanced-alloy",
+    "path" : "/itemMapLiquids/molten-aetherium-alloy",
     "value" : {
       "liquidaether": ["rare", 2],
       "fu_hydrogen": ["uncommon", 2],
       "solariumstar": ["uncommon", 2],
       "densiniumore": ["uncommon", 2],
       "xithriciteore": ["uncommon", 2]
-    }
-  },
-  {
-    "op" : "add",
-    "path" : "/itemMapLiquids/molten-tritanium",
-    "value" : {
-      "liquidaether": ["rare", 5],
-      "triangliumore": ["uncommon", 1],
-      "irradiumore": ["uncommon", 2],
-      "prisiliteore": ["uncommon", 2],
-      "lead": ["uncommon", 1],
-      "fu_nitrogen": ["common", 1]
     }
   }
 ]
