@@ -1,7 +1,8 @@
 # Starbound-bardez-frackin-liquids-ores
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
-- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
+- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
+- [Molten Liquids tabs for Furnace: Fission Furnace Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2898371629) for organization
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This mod does the following:
@@ -63,7 +64,6 @@ This mod does the following:
     - [X] Liquid Telebrium
   - [X] Industrioal Furnace
     - [X] Liquid Advanced Alloy
-      - [X] Allows you to alloy from liquids or bars, too
     - [X] Liquid Zerchesium
     - [X] Liquid Penumbrite
   - [X] Atomic Furnace
@@ -71,16 +71,13 @@ This mod does the following:
     - [X] Liquid Quietus
     - [X] Liquid Lasombrium
     - [X] Liquid Tritanium
-      - [X] Allows you to alloy from liquids or bars, too
     - [X] Liquid Dense Alloy
-      - [X] Allows you to alloy from liquids or bars, too
   - [X] Fission Furnace
     - [X] Liquid Effigium
     - [X] Liquid Densinium
     - [X] Liquid Pyreite
     - [X] Liquid Isogen
     - [X] Liquid Aetherium Alloy
-      - [X] Allows you to alloy from liquids or bars, too
 - [X] Adds research recipes to the research system for these liquids
   - [X] Tier 2
     - [X] Liquid Telebrium
@@ -102,3 +99,5 @@ This mod does the following:
     - [X] Liquid Isogen
   - [X] Tier 8
     - [X] Liquid Aetherium Alloy
+- Things I am considering
+  - Liquid Precursor Alloy
