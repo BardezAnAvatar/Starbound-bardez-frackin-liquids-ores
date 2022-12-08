@@ -102,6 +102,3 @@ This mod does the following:
     - [X] Liquid Isogen
   - [X] Tier 8
     - [X] Liquid Aetherium Alloy
-  - [ ] Adds liquid mixing reactions
-    - [ ] TODO: what reactions do I want to add?
-      - Pyreite and Isogen -> lead
