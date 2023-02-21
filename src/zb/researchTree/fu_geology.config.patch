@@ -7,7 +7,7 @@
       "icon" : "/items/liquids/molten-telebrium.png",
       "children" : [ ],
       "position" : [110, -80],
-      "price" : [["fuscienceresource", 2500], ["moonbar", 3]],
+      "price" : [["fuscienceresource", 2500], ["moonstonebar", 3]],
       "unlocks" : [ "molten-telebrium" ]
     }
   },
